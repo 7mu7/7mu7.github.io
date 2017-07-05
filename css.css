@@ -3,3 +3,7 @@ body {
 	background-size: contain;
     background-repeat: no-repeat;
 }
+table {
+	margin-left:auto; 
+    margin-right:auto;
+}
