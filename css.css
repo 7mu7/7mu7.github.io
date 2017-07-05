@@ -1,5 +1,5 @@
 body {
     background-image: url("images/rain.gif");
-	background-size: auto auto;
+	background-size: contain;
     background-repeat: no-repeat;
 }
