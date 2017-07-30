@@ -2,11 +2,21 @@ html {
   background: url("images/rain.gif") no-repeat center center fixed; 
   background-size: cover;
 }
-table {
-	margin-left: auto; 
-    margin-right: auto;
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-th {
-	font: Induction;
-	font-size: 50;
+.main {
+	height:1000px;
+	background-color:#8795E8;
+	font-size:36px;
 }
