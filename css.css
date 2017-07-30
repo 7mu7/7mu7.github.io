@@ -5,7 +5,7 @@ html {
 .parallax {
     background-image: url("images/rain.gif");
 
-    min-height: 500px; 
+    min-height: 900px; 
 
     background-attachment: fixed;
     background-position: center;
