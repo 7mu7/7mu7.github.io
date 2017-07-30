@@ -3,13 +3,10 @@ html {
   background-size: cover;
 }
 .parallax {
-    /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("images/rain.gif");
 
-    /* Set a specific height */
     min-height: 500px; 
 
-    /* Create the parallax scrolling effect */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
