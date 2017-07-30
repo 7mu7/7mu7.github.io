@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'billy';
-    src: url('https://github.com/7mu7/7mu7.github.io/blob/master/billy.ttf');
+    src: url('https://github.com/7mu7/7mu7.github.io/raw/master/billy.TTF');
 }
 html { 
   background: url("images/rain.gif") no-repeat center center fixed; 
