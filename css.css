@@ -6,6 +6,9 @@ html {
   background: url("images/rain.gif") no-repeat center center fixed; 
   background-size: cover;
 }
+audio {
+	color:#BA01FF;
+}
 .parallax {
     background-image: url("images/rain.gif");
 
