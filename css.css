@@ -37,8 +37,8 @@ footer {
 	-webkit-text-stroke-width: .7px;
     -webkit-text-stroke-color: #FF6AD5;
 }
-.overlay {
- 	position: absolute;
+.think {
+ 	position: static;
  	top: 0;
  	bottom: 0;
  	left: 0;
@@ -47,9 +47,11 @@ footer {
  	width: 100%;
  	opacity: 1;
  	transition: .5s ease;
-}
-.think { 
-	margin-top: 1300px;
+	margin-top: 100px;
+	background-image: url("images/main.png");
+    background-repeat: no-repeat;
+	background-position: top;
+	background-size: 50%;
 }
 
 #desktop {
