@@ -47,11 +47,17 @@ footer {
  	width: 100%;
  	opacity: 1;
  	transition: .5s ease;
+<<<<<<< HEAD
 	margin-top: 100px;
 	background-image: url("images/main.png");
     background-repeat: no-repeat;
 	background-position: top;
 	background-size: 50%;
+=======
+}
+.think { 
+	margin-top: 1250px;
+>>>>>>> 01bc024c2ddd87fbac41cab05b40e71c7ef6bb33
 }
 
 #desktop {
