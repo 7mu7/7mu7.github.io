@@ -1,4 +1,3 @@
-<script type="text/javascript">
 $(document).ready(function()
 {
     $("think").hover(
@@ -10,4 +9,4 @@ $(document).ready(function()
         {
             $(this).attr("src", "images/questionstill.png");
         });
-});
+})
