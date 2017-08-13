@@ -4,20 +4,6 @@
 </title>
 <head>
 <link rel="stylesheet" href="css.css">
-  <script>
-    $(function() {
-    $("#think").hover(
-        function()
-        {
-            $(this).attr("src", "images/question.gif");
-        },
-        function()
-        {
-            $(this).attr("src", "images/questionstill.png");
-        }
-    );
-});
-  </script>
 </head>
 <body>
 <audio controls autoplay loop>
@@ -33,6 +19,20 @@
 <br>This is a landing page to just chill till I figure this out.</br>
 <br><div class="think">
 <a href=""><img id="think" src="images/questionstill.png"></img></a>
+    <script>
+    $(function() {
+    $("#think").hover(
+        function()
+        {
+            $(this).attr("src", "images/question.gif");
+        },
+        function()
+        {
+            $(this).attr("src", "images/questionstill.png");
+        }
+    );
+});
+  </script>
 </div></br>
 </div>
 </stuff>
