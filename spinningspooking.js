@@ -4,10 +4,10 @@ $(document).ready(function()
     $("think").hover(
         function()
         {
-            $(this).attr("src", "question.gif");
+            $(this).attr("src", "images/question.gif");
         },
         function()
         {
-            $(this).attr("src", "questionstill.png");
+            $(this).attr("src", "images/questionstill.png");
         });
 });
