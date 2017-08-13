@@ -5,6 +5,9 @@ background-image: url("images/tile.png");
 margin:0px;
 padding:0px;
 }
+footer {
+text-align: center;
+}
 .seperate {
 background-image: url('images/cloud_tile.png') 
 repeat-x;
