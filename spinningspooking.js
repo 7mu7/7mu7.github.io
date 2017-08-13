@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-    $("think").hover(
+    $("#think").hover(
         function()
         {
             $(this).attr("src", "images/question.gif");
