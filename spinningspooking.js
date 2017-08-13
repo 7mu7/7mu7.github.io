@@ -8,5 +8,7 @@ $(document).ready(function()
         function()
         {
             $(this).attr("src", "images/questionstill.png");
-        });
+        },
+            $('<img />',{ src: 'images/question.gif'});
+    );
 })
