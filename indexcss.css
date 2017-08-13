@@ -20,12 +20,6 @@ footer {
 .parallax {
     background-image: url("images/rain.gif");
     min-height: 800px; 
-}
-.parallax2 {
-    background-image: url("images/RAIN2.gif");
-	min-hight: 800px;
-}
-.parallax {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
