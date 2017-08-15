@@ -1,0 +1,23 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'speculum';
+    src: url('speculum.TTF');
+}
+body,html{
+line-height: 1;
+background-image: url("images/tile.png");
+alignment: auto;
+}
+footer {
+text-align: center;
+}
+.name {
+background-image:url("images/cup.png");
+background-repeat:no-repeat;
+background-position:center
+font-family: speculum;
+color:#BA01FF;
+font-size: 500%;
+-webkit-text-stroke-width: .7px;
+-webkit-text-stroke-color: #FF6AD5;
+}
