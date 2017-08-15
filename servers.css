@@ -1,0 +1,27 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'mexcellent3d';
+    src: url('mexcellent3d.TTF');
+}
+html { 
+	background: url("images/trip.gif") no-repeat center center fixed; 
+	background-size: cover;
+}
+.main {
+	text-align: center;
+	color: #BA01FF;
+	font-size: 36px;
+	font-family: mexcellent3d;
+	-webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: #FF6AD5;
+}
+footer {
+text-align: center;
+}
+.title {
+align: center;
+}
+.home {
+    width: 200px;
+    height: 120px;
+}
