@@ -25,6 +25,14 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
 }
+<<<<<<< HEAD
+=======
+h9 { 
+	font-size: 8px;
+   position: absolute;   
+   width: 100px; 
+}
+>>>>>>> dd86125719d2bbc2f8277695879de70a476ab806
 .main {
 	background-image: url("images/back.gif");
     background-position: top;
