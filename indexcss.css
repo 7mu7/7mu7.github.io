@@ -20,19 +20,22 @@ footer {
 .parallax {
     background-image: url("images/rain.gif");
     min-height: 800px;
+	}
+.parallax2 {
+    background-image: url("images/RAIN2.gif");
+	min-hight: 800px;
+}
+.parallax, .parallax2 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-<<<<<<< HEAD
-=======
 h9 { 
 	font-size: 8px;
    position: absolute;   
-   width: 100px; 
+   width: 1000px; 
 }
->>>>>>> dd86125719d2bbc2f8277695879de70a476ab806
 .main {
 	background-image: url("images/back.gif");
     background-position: top;
