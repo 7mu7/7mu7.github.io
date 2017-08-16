@@ -32,9 +32,9 @@ footer {
     background-size: cover;
 }
 h9 { 
-   position: relative; 
-   bottom:1%;  
-   width: 100%; 
+	font-size: 8px;
+   position: absolute;   
+   width: 100px; 
 }
 .main {
 	background-image: url("images/back.gif");
