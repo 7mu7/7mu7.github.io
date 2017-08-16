@@ -1,0 +1,10 @@
+i recomend just doing a css parallax for the scrolling bg as it takes up less space with the same result other than that gg.
+
+.parallax {
+    background-image: url("images/bg.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

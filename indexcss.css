@@ -7,12 +7,6 @@ html {
 	background: url("images/rain.gif") no-repeat center center fixed; 
 	background-size: cover;
 }
-audio {
-	font-family: speculum;
-	color:#BA01FF;
-	-webkit-text-stroke-width: .7px;
-    -webkit-text-stroke-color: #FF6AD5;
-}
 footer {
 	text-align: center;
 	font-family: speculum;
@@ -20,12 +14,6 @@ footer {
 .parallax {
     background-image: url("images/rain.gif");
     min-height: 800px;
-	}
-.parallax2 {
-    background-image: url("images/RAIN2.gif");
-	min-hight: 800px;
-}
-.parallax, .parallax2 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
