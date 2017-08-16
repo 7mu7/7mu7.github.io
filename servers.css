@@ -15,6 +15,9 @@ html {
 	-webkit-text-stroke-width: .2px;
     -webkit-text-stroke-color: #FF6AD5;
 }
+img {
+    width: 10%;
+    height: auto;
 footer {
 text-align: center;
 }
