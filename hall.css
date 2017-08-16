@@ -5,7 +5,7 @@
 }
 body,html{
 line-height: 1;
-background-image: url("images/tile.png");
+background-image: url("images/cloud.png");
 alignment: auto;
 }
 footer {
@@ -14,10 +14,31 @@ text-align: center;
 .name {
 background-image:url("images/cup.png");
 background-repeat:no-repeat;
-background-position:center
+background-position: center;
+background-size: auto;
 font-family: speculum;
 color:#BA01FF;
-font-size: 500%;
+font-size: 200%;
 -webkit-text-stroke-width: .7px;
 -webkit-text-stroke-color: #FF6AD5;
+}
+html, body{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+.top {
+	background-image: url("images/cloud_tile.png");
+    background-position: top;
+    background-repeat: no-repeat-x;
+	height: 250px;
+}
+.main {
+	background-image: url("images/tile.png");
+    background-position: center;
+	background-repeat: repeat-x;
+	height: 500px;
 }
