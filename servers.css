@@ -3,13 +3,13 @@
     font-family: 'mexcellent3d';
     src: url('mexcellent3d.TTF');
 }
-#images/home1.png {
+.images/home1.png {
     height: auto; 
     width: auto; 
     max-width: 300px; 
     max-height: 300px;
 }
-#images/home2.png {
+.images/home2.png {
     height: auto; 
     width: auto; 
     max-width: 300px; 
