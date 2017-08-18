@@ -12,15 +12,16 @@ footer {
 text-align: center;
 }
 .name {
-background-image:url("images/cup.png");
+background-image:url("images/cup3.png");
 background-repeat:no-repeat;
 background-position: center;
-background-size: auto;
+background-size: cover;
 font-family: speculum;
-color:#BA01FF;
+text-align:center;
+color:#fdf3b8;
 font-size: 200%;
 -webkit-text-stroke-width: .7px;
--webkit-text-stroke-color: #FF6AD5;
+-webkit-text-stroke-color: #fdd6b5;
 }
 html, body{
 	margin: 0;
@@ -40,5 +41,5 @@ html, body{
 	background-image: url("images/tile.png");
     background-position: center;
 	background-repeat: repeat-x;
-	height: 500px;
+	height: 480px;
 }
