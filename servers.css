@@ -26,9 +26,10 @@ footer {
 text-align: center;
 }
 .title {
-    width: 500%;
+    width: 50%;
 	height: auto;
-    align: center;
+    left:25%;
+	position:relative;
 }
 home {
     width: 5px;
