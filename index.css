@@ -11,6 +11,12 @@ footer {
 	text-align: center;
 	font-family: speculum;
 }
+audio {
+	font-family: speculum;
+	color:#BA01FF;
+	-webkit-text-stroke-width: .7px;
+    -webkit-text-stroke-color: #FF6AD5;
+}
 .parallax {
     background-image: url("images/rain.gif");
     min-height: 800px;
@@ -51,6 +57,16 @@ h9 {
     background-repeat: no-repeat;
 	background-position: top;
 	background-size: 50%;
+}
+footer {
+   bottom : 2px;  
+   height : 22px;  
+   margin-top : 40px;
+   font-size: 20px;  
+   text-align: center;  
+   vertical-align: middle; 
+   position:fixed;
+   width:100%;
 }
 
 #desktop {
