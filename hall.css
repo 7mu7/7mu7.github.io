@@ -11,11 +11,8 @@ alignment: auto;
 footer {
 text-align: center;
 }
-.name {
-background-image:url("images/cup3.png");
-background-repeat:no-repeat;
-background-position: center;
-background-size: cover;
+table {
+text-decoration:none;
 font-family: speculum;
 text-align:center;
 color:#fdf3b8;
