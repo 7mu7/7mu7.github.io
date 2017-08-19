@@ -1,0 +1,37 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'mexcellent3d';
+    src: url('mexcellent3d.TTF');
+}
+html { 
+	background: url("images/trip.gif") no-repeat center center fixed; 
+	background-size: cover;
+}
+.main {
+	text-align: center;
+	color: #BA01FF;
+	font-size: 36px;
+	font-family: mexcellent3d;
+	-webkit-text-stroke-width: .2px;
+    -webkit-text-stroke-color: #FF6AD5;
+}
+img {
+	width: 10%;
+	height: auto;
+	text-align: justify;
+}
+footer {
+	width: 100%;
+	height: 100%;
+text-align: center;
+}
+.title {
+    width: 500%;
+	height: auto;
+    left:25%;
+	position:relative;
+}
+home {
+    width: 5px;
+    height: 5px;
+}
