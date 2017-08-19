@@ -11,9 +11,7 @@ alignment: auto;
 footer {
 text-align: center;
 }
-table {
-text-decoration:none;
-font-family: speculum;
+td {
 text-align:center;
 color:#fdf3b8;
 font-size: 200%;
