@@ -3,9 +3,16 @@
     font-family: 'mexcellent3d';
     src: url('mexcellent3d.TTF');
 }
-html { 
-	background: url("images/win98.png") no-repeat center center fixed; 
-	background-size: cover;
+html {
+	opacity: 0.60;
+    -moz-opacity: 20%;
+    -webkit-opacity: 20%;
+    z-index: 2;
+	background-color: #FF69B4;
+}
+body { 
+	background: url("images/win98.png") no-repeat fixed; 
+	background-size: 100% 100%;
 }
 .main {
 	text-align: center;
