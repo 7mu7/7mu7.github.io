@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'mexcellent3d';
-    src: url('mexcellent3d.TTF');
+    font-family: 'vcr';
+    src: url('fonts/vcr.TTF');
 }
 html {
 	opacity: 0.60;
@@ -13,14 +13,6 @@ html {
 body { 
 	background: url("images/win98.png") no-repeat fixed; 
 	background-size: 100% 100%;
-}
-.main {
-	text-align: center;
-	color: #BA01FF;
-	font-size: 36px;
-	font-family: mexcellent3d;
-	-webkit-text-stroke-width: .2px;
-    -webkit-text-stroke-color: #FF6AD5;
 }
 img {
 	width: 10%;
@@ -51,14 +43,14 @@ home {
     height: 5px;
 }
 .main {
-	background-image: url("images/main.png");
+	background-image: url("images/blank.png");
     background-position: top;
     background-repeat: no-repeat;
 	height: 1000px;
 	text-align: center;
 	color: #BA01FF;
 	font-size: 36px;
-	font-family: speculum;
+	font-family: vcr;
 	-webkit-text-stroke-width: .7px;
     -webkit-text-stroke-color: #FF6AD5;
 }
