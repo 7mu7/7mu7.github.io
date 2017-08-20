@@ -4,9 +4,9 @@
     src: url('font/speculum.TTF');
 }
 body,html{
-line-height: 1;
-background-image: url("images/cloud.png");
-alignment: auto;
+   line-height: 1;
+   background-image: url("images/cloud.png");
+   alignment: auto;
 }
 footer {
    bottom : 2px;  
@@ -17,14 +17,16 @@ footer {
    vertical-align: middle; 
    position:fixed;
    width:100%;
+   -webkit-text-stroke-width: .7px;
+   -webkit-text-stroke-color: #FF6AD5;
 }
 td {
-font-family: speculum;
-text-align:center;
-color:#fdf3b8;
-font-size: 200%;
--webkit-text-stroke-width: .7px;
--webkit-text-stroke-color: #FF6AD5;
+   font-family: speculum;
+   text-align:center;
+   color:#fdf3b8;
+   font-size: 200%;
+   -webkit-text-stroke-width: .7px;
+   -webkit-text-stroke-color: #FF6AD5;
 }
 html, body{
 	margin: 0;
