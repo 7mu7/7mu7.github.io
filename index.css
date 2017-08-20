@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
     font-family: 'speculum';
-    src: url('speculum.TTF');
+    src: url('fonts/speculum.ttf');
 }
 html { 
 	background: url("images/rain.gif") no-repeat center center fixed; 

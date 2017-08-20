@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
     font-family: 'speculum';
-    src: url('font/speculum.ttf');
+    src: url('fonts/speculum.ttf');
 }
 body,html{
    line-height: 1;
@@ -17,6 +17,7 @@ footer {
    vertical-align: middle; 
    position:fixed;
    width:100%;
+   font-family: speculum;
    -webkit-text-stroke-width: .7px;
    -webkit-text-stroke-color: #FF6AD5;
 }
