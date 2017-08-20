@@ -1,0 +1,12 @@
+loadImage1 = new Image();
+loadImage1.src = "images/vr.gif";
+staticImage1 = new Image();
+staticImage1.src = "images/vrstill.png";
+loadImage2 = new Image();
+loadImage2.src = "images/tv.gif";
+staticImage2 = new Image();
+staticImage2.src = "images/tvstill.png";
+loadImage3 = new Image();
+loadImage3.src = "images/door.gif";
+staticImage3 = new Image();
+staticImage3.src = "images/doorstill.png";

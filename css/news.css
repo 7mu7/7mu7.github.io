@@ -1,11 +1,11 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'vcr';
-    src: url('fonts/vcr.ttf');
+    font-family: "vcr";
+    src: url('../fonts/vcr.ttf');
 }
 @font-face {
-    font-family: 'speculum';
-    src: url('fonts/speculum.ttf');
+    font-family: "speculum";
+    src: url("../fonts/speculum.ttf");
 }
 html {
 	opacity: 0.60;
@@ -15,7 +15,7 @@ html {
 	background-color: #FF69B4;
 }
 body { 
-	background: url("images/win98.png") no-repeat fixed; 
+	background: url("../images/win98.png") no-repeat fixed; 
 	background-size: 100% 100%;
 }
 img {
@@ -27,7 +27,7 @@ footer {
    bottom : 2px;  
    height : 22px;  
    margin-top : 40px;
-   font-size: 20px;  
+   font-size: 9px;  
    text-align: center;  
    vertical-align: middle; 
    position:fixed;
@@ -47,7 +47,7 @@ home {
     height: 5px;
 }
 .main {
-	background-image: url("images/blank.png");
+	background-image: url("../images/blank.png");
     background-position: top;
     background-repeat: no-repeat;
 	height: 1000px;

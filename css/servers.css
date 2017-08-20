@@ -1,14 +1,14 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'neon';
-    src: url('fonts/neon.ttf');
+    font-family: "neon";
+    src: url("../fonts/neon.ttf");
 }
 @font-face {
-    font-family: 'speculum';
-    src: url('fonts/speculum.ttf');
+    font-family: "speculum";
+    src: url("../fonts/speculum.ttf");
 }
 html { 
-	background: url("images/trip.gif") no-repeat center center fixed; 
+	background: url("../images/trip.gif") no-repeat center center fixed; 
 	background-size: cover;
 }
 .main {
@@ -39,7 +39,7 @@ footer {
    -webkit-text-stroke-color: #FF6AD5;
 }
 .title {
-	background-image: url("images/title.png");
+	background-image: url("../images/title.png");
     background-position: top;
     background-repeat: no-repeat;
 	height: 300px;

@@ -1,11 +1,11 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'speculum';
-    src: url('fonts/speculum.ttf');
+    font-family: "speculum";
+    src: url("../fonts/speculum.ttf");
 }
 body,html{
    line-height: 1;
-   background-image: url("images/cloud.png");
+   background-image: url("../images/cloud.png");
    alignment: auto;
 }
 footer {
@@ -38,13 +38,13 @@ html, body{
 	vertical-align: baseline;
 }
 .top {
-	background-image: url("images/cloud_tile.png");
+	background-image: url("../images/cloud_tile.png");
     background-position: top;
     background-repeat: no-repeat-x;
 	height: 250px;
 }
 .main {
-	background-image: url("images/tile.png");
+	background-image: url("../images/tile.png");
     background-position: center;
 	background-repeat: repeat-x;
 	height: 480px;

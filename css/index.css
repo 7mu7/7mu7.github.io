@@ -1,10 +1,10 @@
 @charset "utf-8";
 @font-face {
-    font-family: 'speculum';
-    src: url('fonts/speculum.ttf');
+    font-family: "speculum";
+    src: url("../fonts/speculum.ttf");
 }
 html { 
-	background: url("images/rain.gif") no-repeat center center fixed; 
+	background: url("../images/rain.gif") no-repeat center center fixed; 
 	background-size: cover;
 }
 footer {
@@ -18,7 +18,7 @@ audio {
     -webkit-text-stroke-color: #FF6AD5;
 }
 .parallax {
-    background-image: url("images/rain.gif");
+    background-image: url("../images/rain.gif");
     min-height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -31,7 +31,7 @@ h9 {
    position: relative;   
    width: 50%; }
 .main {
-	background-image: url("images/back.gif");
+	background-image: url("../images/back.gif");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,7 +53,7 @@ h9 {
  	width: 100%;
  	opacity: 1;
  	transition: .5s ease;
-	background-image: url("images/main.png");
+	background-image: url("../images/main.png");
     background-repeat: no-repeat;
 	background-position: top;
 	background-size: 50%;
