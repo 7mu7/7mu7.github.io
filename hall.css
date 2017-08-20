@@ -1,7 +1,7 @@
 @charset "utf-8";
 @font-face {
     font-family: 'speculum';
-    src: url('font/speculum.TTF');
+    src: url('font/speculum.ttf');
 }
 body,html{
    line-height: 1;
