@@ -1,7 +1,11 @@
 @charset "utf-8";
 @font-face {
     font-family: 'vcr';
-    src: url('fonts/vcr.TTF');
+    src: url('fonts/vcr.ttf');
+}
+@font-face {
+    font-family: 'speculum';
+    src: url('fonts/speculum.ttf');
 }
 html {
 	opacity: 0.60;
@@ -28,6 +32,7 @@ footer {
    vertical-align: middle; 
    position:fixed;
    width:100%;
+   font-family: speculum;
    -webkit-text-stroke-width: .7px;
    -webkit-text-stroke-color: #FF6AD5;
 }
@@ -36,7 +41,6 @@ footer {
 	height: auto;
     left:25%;
 	position:relative;
-	
 }
 home {
     width: 5px;
