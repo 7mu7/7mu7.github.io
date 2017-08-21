@@ -5,7 +5,7 @@
 }
 body,html{
    line-height: 1;
-   background-image: url("../images/cloud.png");
+   background-image: url("../images/cloud.jpg");
    alignment: auto;
 }
 footer {
@@ -38,13 +38,13 @@ html, body{
 	vertical-align: baseline;
 }
 .top {
-	background-image: url("../images/cloud_tile.png");
+	background-image: url("../images/cloud_tile.jpg");
     background-position: top;
     background-repeat: no-repeat-x;
 	height: 250px;
 }
 .main {
-	background-image: url("../images/tile.png");
+	background-image: url("../images/tile.jpg");
     background-position: center;
 	background-repeat: repeat-x;
 	height: 480px;
