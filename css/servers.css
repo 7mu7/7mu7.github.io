@@ -13,6 +13,7 @@ html {
 }
 .main {
 	background-color: #8795E8;
+	opacity: 0.75;
 	text-align: center;
 	color: #BA01FF;
 	font-size: 36px;
