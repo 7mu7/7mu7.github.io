@@ -21,6 +21,10 @@ html {
 	-webkit-text-stroke-width: .2px;
     -webkit-text-stroke-color: #FF6AD5;
 }
+h2.mainText {
+  position: relative;
+  top: 4.7em;
+}
 img {
 	width: 10%;
 	height: auto;
