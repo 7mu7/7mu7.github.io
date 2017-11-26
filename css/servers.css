@@ -12,6 +12,7 @@ html {
 	background-size: cover;
 }
 .main {
+	z-index: -5;
 	background-color: #8795E8;
 	opacity: 0.75;
 	text-align: center;
