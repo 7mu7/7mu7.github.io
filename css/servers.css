@@ -30,6 +30,7 @@ blockImg {
 	top: 750px;
 	width: 125px;
 	height: auto;
+	text-align: justify;
 }
 img {
         z-index: 5;
