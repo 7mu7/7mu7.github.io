@@ -21,6 +21,7 @@ html {
 	font-family: neon;
 	-webkit-text-stroke-width: .2px;
     -webkit-text-stroke-color: #FF6AD5;
+	margin: 130px;
 }
 h2.mainText {
   position: relative;
