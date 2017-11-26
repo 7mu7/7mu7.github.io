@@ -45,6 +45,8 @@ f.prototype=w.prototype;
 k.prototype=new w;
 p.prototype=w.prototype;
 var g=new b;
+var l1=new b;
+
 for(var l=-1;1>=l;
 l++)
 //(w,l)x,z,y,rot x,rot z,rot y
@@ -52,7 +54,8 @@ l++)
 g.add(new q({src:"images/wall.jpg"},800,500),40,-240,1600,0,90,0);
 g.add(new q({src:"images/wall.jpg"},800,500),40,-240,1600,0,270,0);
 //entrence
-g.add(new q({src:"images/door.gif"},250,250),-250,-700,2000,0,180,0);
+g.add(new c({src:"images/door.gif"},250,250),-250,-600,1950,0,180,0);
+	
 //stairs floor
 g.add(new q({src:"images/tile.jpg"},800,310),-350,-500,1850,90,0,0);
 //right side
@@ -64,6 +67,8 @@ g.add(new q({src:"images/cloud.jpg"},2700,2700),-300,-1500,700,270,0,0);
 g.add(new q({src:"images/wall.jpg"},2700,1500),-320,-750,-680,0,0,0);
 //right
 g.add(new q({src:"images/wall.jpg"},2700,1500),-1690,-750,700,0,90,0);
+//glass
+g.add(new q({src:"images/glass.png"},2700,1500),-590,-750,700,0,90,0);
 //front
 g.add(new q({src:"images/wall.jpg"},2700,1500),-320,-750,2000,0,180,0);
 //left
@@ -296,6 +301,11 @@ window.va&&(debugUI.onchange=function(){t.T(u.A,!1);
 u.A.update(!0)});
 //view
 var u=new R(m),x=u.u,n={position:d.create(300,500,-1730),rotation:d.create(0,0,0),f:0,B:0,b:0};
+
+if (d=-250,-600,1950)(
+window.location.replace('mall.htm'));
+
+
 U(u.A);
 k=f=c=b=a=!1;
 q.ka("images/map.png",function(){var a;
