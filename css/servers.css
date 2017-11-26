@@ -25,9 +25,15 @@ html {
 h2.mainText {
   position: relative;
 }
+blockImg {
+	z-index:5;
+	top: 750px;
+	width 125px;
+	height: auto;
+}
 img {
         z-index: 5;
-	width: 125px;
+	width: 10%;
 	height: auto;
 	text-align: justify;
 }
