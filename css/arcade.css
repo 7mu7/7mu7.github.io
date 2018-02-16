@@ -1,6 +1,6 @@
 @charset "utf-8";
 html{
-   background: url("../images/robotron.jpg")no-repeat center center fixed;
+   background: url("../images/pipes.png")repeat center center fixed;
 	background-size: 1700px 800px;
 }
 
