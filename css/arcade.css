@@ -1,17 +1,77 @@
 @charset "utf-8";
 html{
-   background: url("images/pipes.png")repeat center center fixed;
+   background: url("../images/pipes.png")repeat center center fixed;
 }
 
 .dosbox-container{
-	width: 1300px;
-	height: 800px;
-	left: 15%;
-	top: 140px;
+	width: 650px;
+	height: 400px;
 }
 .dosbox-start {
 	font-size: 35px !important;
 }
 button{
-	align: center;
+	position:absolute;
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.aladdin {
+    position: absolute;
+    top: 25%;
+    left: 25%;
+	transform: translate(-50%, -50%);
+}
+.descent {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+}
+.doom2 {
+    position: absolute;
+    top: 25%;
+    left: 75%;
+	transform: translate(-50%, -50%);
+}
+.elderscrolls {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+	transform: translate(-50%, -50%);
+}
+.ewj {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+}
+.galagon {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+	transform: translate(-50%, -50%);
+}
+.leisuresuitlarry {
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.mk3 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.oregontrail {
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    transform: translate(-50%, -50%);
 }
