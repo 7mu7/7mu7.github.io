@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{
-   background: url("../images/pipes.png")repeat center center fixed;
+   background: url("../images/pipes.png");
 }
 
 .dosbox-container{
