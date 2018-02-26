@@ -2,7 +2,10 @@
 html{
    background: url("../images/Pipes.png");
 }
-
+img{
+	width: 10%;
+	height: auto;
+}
 .dosbox-container{
 	width: 650px;
 	height: 400px;
