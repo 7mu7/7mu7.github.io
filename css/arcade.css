@@ -30,43 +30,43 @@ button{
     left: 25%;
 	transform: translate(-50%, -50%);
 }
-.commanderkeen4 {
+.bb {
     position: absolute;
     top: 25%;
     left: 50%;
 	transform: translate(-50%, -50%);
 }
-.descent {
+.commanderkeen4 {
     position: absolute;
     top: 25%;
     left: 75%;
+	transform: translate(-50%, -50%);
+}
+.descent {
+    position: absolute;
+    top: 50%;
+    left: 25%;
 	transform: translate(-50%, -50%);
 }
 .doom2 {
     position: absolute;
     top: 50%;
-    left: 25%;
-	transform: translate(-50%, -50%);
-}
-.leisuresuitlarry {
-    position: absolute;
-    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.mk {
+.leisuresuitlarry {
     position: absolute;
     top: 50%;
     left: 75%;
     transform: translate(-50%, -50%);
 }
-.oregontrail {
+.mk {
     position: absolute;
     top: 75%;
     left: 25%;
     transform: translate(-50%, -50%);
 }
-.wolfenstein3d {
+.oregontrail {
     position: absolute;
     top: 75%;
     left: 50%;
