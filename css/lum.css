@@ -2,6 +2,10 @@
 html{
    background: url("../images/pattern.gif");
 }
+img {
+	width: 10%;
+	height: auto;
+}
 embed{
 	border-style: inset;
 	border-width: 5px;
