@@ -3,6 +3,7 @@ html{
    background: url("../images/pattern.gif");
 }
 embed{
+	border-style: inset;
 	width: 700px;
 	height: 665px;
 	position: center;
