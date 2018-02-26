@@ -4,6 +4,6 @@ html{
 }
 embed{
 	width: 500px;
-	height: 700px;
+	height: auto;
 	position: center
 }
