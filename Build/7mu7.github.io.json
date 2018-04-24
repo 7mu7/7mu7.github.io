@@ -1,9 +1,13 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
 "dataUrl": "7mu7.github.io.data.unityweb",
 "asmCodeUrl": "7mu7.github.io.asm.code.unityweb",
 "asmMemoryUrl": "7mu7.github.io.asm.memory.unityweb",
 "asmFrameworkUrl": "7mu7.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20"
 }
