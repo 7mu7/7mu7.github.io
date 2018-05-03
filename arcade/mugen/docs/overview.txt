@@ -1,0 +1,125 @@
+M.U.G.E.N  Overview
+===================
+Elecbyte (c)1999
+
+
+
+Contents
+--------
+I.  Introduction
+II. The Files
+
+
+
+I. Overview
+-----------
+M.U.G.E.N is designed to be a 2D fighting game engine that lets you create your own characters and stages. Oriented more towards flexibility, making characters with M.U.G.E.N may initially seem a daunting task, but once you understand the basics, learning the rest of the tricks should come naturally.
+
+M.U.G.E.N runs in DOS, and should work fine in a DOS box under Windows.
+
+
+
+II. The Files
+-------------
+A quick note: Here, we will use slashes (/) interchangeably with backslashes (\) when referring to paths and filenames. For example, "DATA/MUGEN.CFG" would be considered equivalent to "DATA\MUGEN.CFG". 
+
+To begin, let us introduce the file types (denoted by their extension.)
+AIR - Animation file; tells the program how to play back a sequence of
+      sprites to form an animation.
+CFG - Configuration file (see mugen.cfg in the following paragraph)
+CNS - Character behavior file; defines how a character acts and moves
+DEF - Definition file; has various purposes
+SFF - Sprite file; contains one or more sprites
+SND - Sound file; contains one or more sounds
+
+
+(a) Files needed to run
+
+There are several files you will need to run M.U.G.E.N. Here is a list of important files you will find in the program-only distribution, and what they do.
+
+mugen.exe       The executable file
+data/
+  common1.cns   Contains behavior information common to all characters
+  fight.def     Defines the way the "fight screen" looks
+  mugen.cfg     Configuration file - preferences and settings
+  select.cfg    Defines what characters are to included in the game
+graphics/
+  fight.sff     Sprite file for "fight screen" graphics
+  staticfx.air  Animation file for hit sparks, dust, and other effects
+  staticfx.sff  The sprite file for staticfx.air
+sound/
+  fight.snd     Sound effects used in the "fight screen"
+
+
+(b) Files needed for a character
+
+All files for a certain character should be placed in its own directory under the chars/ directory. For example, if you have a character named "fighter", it will go into the directory "chars/fighter/".
+
+Within each character's directory, you should have the following files. As an example, we will use the name "fighter". Substitute the name of your character for "fighter".
+
+Required:
+  fighter.air   Animation file for the character
+  fighter.cmd   Tells how you start a "move"
+  fighter.cns   1. Important data, such as speeds and sizes
+                2. Defines how the character executes moves
+  fighter.def   Short file that has a list of filenames
+  fighter.sff   Sprite file
+  fighter.snd   Sound file
+Optional:
+  fighter1.act  Palette file (you can have up to 6)
+  ...
+  fighter6.act
+
+See the document on creating characters for more details.
+
+
+
+III. Running the game
+---------------------
+Assuming you have all the files ready, just type MUGEN at the DOS Prompt to begin.
+
+Support may be added later for multiple game configurations.
+
+First of all, here is the default key configuration.
+
+Button      Player 1      Player 2
+------      --------      --------
+  Up        Up arrow      Numpad Up
+ Down       Down arrow    Numpad Down
+ Left       Left arrow    Numpad Left
+Right       Right arrow   Numpad Right
+  X         L             Numlock 
+  Y         semicolon     Numpad slash
+  Z         double-quote  Numpad asterisk
+  A         comma         Numpad -
+  B         period        Numpad +
+  C         slash         Numpad Enter
+
+
+(a) The Main Menu
+Choose from the following selections. To make a selection, press one of the keys corresponding to a button of a player. Pressing the Escape key will quit.
+
+Arcade     Starts up a one-player mode where you fight all the 
+           characters in random sequence.
+Versus     Lets two players go against each other.
+Watch      See the computer duke it out with another computer player.
+Options    Set your preferences.
+Exit       Quits M.U.G.E.N
+
+For "arcade" mode, the key you hit will determine which side you play on. If you chose with one of Player One's keys, your character will play on the left side. If you chose with Player Two's keys, you will start on the right side.
+
+In "watch" mode, first choose the one character to be on Player One's side, then choose a second to be his opponent.
+
+
+
+
+Document is incomplete. Please be patient.
+
+
+To Write:
+1. steps for creating a BG
+- sprites, recommended sizes, talk about scroll speed to size ratio
+- use sprmaker to make it
+- where to put
+- how to make the def file
+- colour 0 is transparent for "masked" sprites

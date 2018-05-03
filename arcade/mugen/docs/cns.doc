@@ -1,0 +1,1142 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff5\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times;}
+{\f5\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica{\*\falt Arial};}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier{\*\falt Courier New};}{\f7\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Geneva;}
+{\f8\froman\fcharset0\fprq2{\*\panose 00000000000000000000}Tms Rmn;}{\f9\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Helv;}{\f10\froman\fcharset0\fprq2{\*\panose 00000000000000000000}MS Serif;}
+{\f11\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}MS Sans Serif;}{\f12\froman\fcharset0\fprq2{\*\panose 00000000000000000000}New York;}{\f13\fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}System;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f15\fswiss\fcharset0\fprq2{\*\panose 020b0a06030101010103}Abadi MT Condensed Extra Bold;}{\f16\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}
+{\f17\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}American Heritage A;}{\f18\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}American Heritage B;}{\f19\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Andale Mono;}
+{\f20\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Apple Chancery;}{\f21\fswiss\fcharset0\fprq2{\*\panose 020b0a04020102020204}Arial Black;}{\f22\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Arial MT Condensed Light;}
+{\f23\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}BeBox;}{\f24\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Bodoni MT Ultra Bold;}{\f25\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Capitals;}
+{\f26\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Charcoal;}{\f27\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Chicago;}{\f28\fscript\fcharset0\fprq2{\*\panose 030f0702030302020204}Comic Sans MS;}
+{\f29\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Espi Sans;}{\f30\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Espi Sans Bold;}{\f31\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Gadget;}
+{\f32\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Georgia;}{\f33\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Gill Sans Condensed Bold;}{\f34\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Hoefler Text;}
+{\f35\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Hoefler Text Ornaments;}{\f36\fswiss\fcharset0\fprq2{\*\panose 020b0806030902050204}Impact;}{\f37\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Klang MT;}
+{\f38\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Minion Web;}{\f39\fmodern\fcharset0\fprq0{\*\panose 00000000000000000000}Monaco;}{\f40\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Monotype.com;}
+{\f41\froman\fcharset2\fprq2{\*\panose 05050102010205020202}MT Extra;}{\f42\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}New Berolina MT;}{\f43\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Old English Text MT;}
+{\f44\froman\fcharset0\fprq0{\*\panose 00000000000000000000}Palatino;}{\f45\fswiss\fcharset0\fprq2{\*\panose 020b0603030804020204}PrimaSans BT;}{\f46\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Sand;}
+{\f47\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Script MT Bold;}{\f48\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Skia;}{\f49\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Techno;}
+{\f50\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Tecton;}{\f51\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Textile;}{\f52\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Trebuchet MS;}
+{\f53\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f54\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Veritas;}{\f55\froman\fcharset2\fprq2{\*\panose 05030102010509060703}Webdings;}
+{\f56\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}Zapf Dingbats;}{\f57\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}TTYFont;}{\f58\fnil\fcharset0\fprq0{\*\panose 00000000000000000000}VT100;}
+{\f59\fnil\fcharset2\fprq2{\*\panose 00000000000000000000}Marlett;}{\f60\fswiss\fcharset0\fprq2{\*\panose 020b0706040902060204}Haettenschweiler;}{\f61\fswiss\fcharset0\fprq2{\*\panose 020b0506020202030204}Arial Narrow;}
+{\f62\froman\fcharset0\fprq2{\*\panose 02050604050505020204}Bookman Old Style;}{\f63\fnil\fcharset2\fprq2{\*\panose 01010601010101010101}Monotype Sorts;}{\f64\froman\fcharset0\fprq2{\*\panose 02020404030301010803}Garamond;}
+{\f65\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}MS Outlook;}{\f66\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Bookshelf Symbol 3;}{\f67\fswiss\fcharset2\fprq2{\*\panose 050b0604020202020204}Bookshelf Symbol 4;}
+{\f68\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Bookshelf Symbol 5;}{\f69\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}{\f70\fswiss\fcharset0\fprq2{\*\panose 020b0504020203020204}News Gothic MT;}
+{\f71\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Lucida Handwriting;}{\f72\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020204}Lucida Sans;}{\f73\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020204}Lucida Sans Unicode;}
+{\f74\froman\fcharset0\fprq2{\*\panose 02040602050305030304}Book Antiqua;}{\f75\fswiss\fcharset0\fprq2{\*\panose 020b0502020202020204}Century Gothic;}{\f76\fmodern\fcharset0\fprq1{\*\panose 02010509020102010303}OCR A Extended;}
+{\f77\froman\fcharset0\fprq2{\*\panose 02040603050505030304}Calisto MT;}{\f78\fswiss\fcharset0\fprq2{\*\panose 020b0306030101010103}Abadi MT Condensed Light;}{\f79\fswiss\fcharset0\fprq2{\*\panose 020e0705020206020404}Copperplate Gothic Bold;}
+{\f80\fswiss\fcharset0\fprq2{\*\panose 020e0507020206020404}Copperplate Gothic Light;}{\f81\fdecor\fcharset0\fprq2{\*\panose 04040403030d02020704}Matisse ITC;}{\f82\fdecor\fcharset0\fprq2{\*\panose 04020404030d07020202}Tempus Sans ITC;}
+{\f83\fdecor\fcharset0\fprq2{\*\panose 04040506030f02020702}Westminster;}{\f84\fdecor\fcharset0\fprq2{\*\panose 04020705040a02060702}Algerian;}{\f85\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Almanac MT;}
+{\f86\fswiss\fcharset0\fprq2{\*\panose 020f0704030504030204}Arial Rounded MT Bold;}{\f87\froman\fcharset0\fprq2{\*\panose 02020602080505020303}Baskerville Old Face;}{\f88\fdecor\fcharset0\fprq2{\*\panose 04030905020b02020c02}Bauhaus 93;}
+{\f89\fdecor\fcharset0\fprq2{\*\panose 04040a05050d02020502}Beesknees ITC;}{\f90\froman\fcharset0\fprq2{\*\panose 02020503060305020303}Bell MT;}{\f91\froman\fcharset0\fprq2{\*\panose 02050806060905020404}Bernard MT Condensed;}
+{\f92\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Bon Apetit MT;}{\f93\fscript\fcharset0\fprq2{\*\panose 03070402050302030203}Bradley Hand ITC;}{\f94\fdecor\fcharset0\fprq2{\*\panose 04030b070d0b02020403}Braggadocio;}
+{\f95\fswiss\fcharset0\fprq2{\*\panose 020b0903060703020204}Britannic Bold;}{\f96\fscript\fcharset0\fprq2{\*\panose 03060802040406070304}Brush Script MT;}{\f97\froman\fcharset0\fprq2{\*\panose 02040604050505020304}Century Schoolbook;}
+{\f98\fdecor\fcharset0\fprq2{\*\panose 04020805060202030203}Colonna MT;}{\f99\froman\fcharset0\fprq2{\*\panose 0208090404030b020404}Cooper Black;}{\f100\fdecor\fcharset0\fprq2{\*\panose 04040404050702020202}Curlz MT;}
+{\f101\fdecor\fcharset0\fprq2{\*\panose 04020505020e03040504}Desdemona;}{\f102\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Directions MT;}{\f103\froman\fcharset0\fprq2{\*\panose 02090707080505020304}Engravers MT;}
+{\f104\fswiss\fcharset0\fprq2{\*\panose 020b0907030504020204}Eras Bold ITC;}{\f105\fswiss\fcharset0\fprq2{\*\panose 020b0805030504020804}Eras Demi ITC;}{\f106\fswiss\fcharset0\fprq2{\*\panose 020b0402030504020804}Eras Light ITC;}
+{\f107\fswiss\fcharset0\fprq2{\*\panose 020b0602030504020804}Eras Medium ITC;}{\f108\fswiss\fcharset0\fprq2{\*\panose 020b0a07030504020204}Eras Ultra ITC;}{\f109\fswiss\fcharset0\fprq2{\*\panose 020b0504020202050204}Eurostile;}
+{\f110\fdecor\fcharset0\fprq2{\*\panose 04060505060202020a04}Felix Titling;}{\f111\froman\fcharset0\fprq2{\*\panose 0204060206030a020304}Footlight MT Light;}{\f112\fscript\fcharset0\fprq2{\*\panose 03060902040502070203}Forte;}
+{\f113\fswiss\fcharset0\fprq2{\*\panose 020b0503020102020204}Franklin Gothic Book;}{\f114\fswiss\fcharset0\fprq2{\*\panose 020b0703020102020204}Franklin Gothic Demi;}{\f115\fswiss\fcharset0\fprq2{\*\panose 020b0706030402020204}Franklin Gothic Demi Cond;}
+{\f116\fswiss\fcharset0\fprq2{\*\panose 020b0903020102020204}Franklin Gothic Heavy;}{\f117\fswiss\fcharset0\fprq2{\*\panose 020b0603020102020204}Franklin Gothic Medium;}
+{\f118\fswiss\fcharset0\fprq2{\*\panose 020b0606030402020204}Franklin Gothic Medium Cond;}{\f119\fscript\fcharset0\fprq2{\*\panose 03020402040607040605}French Script MT;}
+{\f120\fswiss\fcharset0\fprq2{\*\panose 020b0802020104020203}Gill Sans MT Ext Condensed Bold;}{\f121\froman\fcharset0\fprq2{\*\panose 02030808020601010101}Gloucester MT Extra Condensed;}
+{\f122\froman\fcharset0\fprq2{\*\panose 02020502050305020303}Goudy Old Style;}{\f123\froman\fcharset0\fprq2{\*\panose 0202090407030b020401}Goudy Stout;}{\f124\fscript\fcharset0\fprq2{\*\panose 03080302020302020206}Gradl;}
+{\f125\fdecor\fcharset0\fprq2{\*\panose 04040505050a02020702}Harrington;}{\f126\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Holidays MT;}{\f127\fdecor\fcharset0\fprq2{\*\panose 04020605060303030202}Imprint MT Shadow;}
+{\f128\fdecor\fcharset0\fprq2{\*\panose 04040403040a02020202}Juice ITC;}{\f129\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Keystrokes MT;}{\f130\fdecor\fcharset0\fprq2{\*\panose 040307050d0c02020703}Kino MT;}
+{\f131\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Lucida Blackletter;}{\f132\froman\fcharset0\fprq2{\*\panose 02040602050505020304}Lucida Bright;}{\f133\fscript\fcharset0\fprq2{\*\panose 03010101010101010101}Lucida Calligraphy;}
+{\f134\froman\fcharset0\fprq2{\*\panose 02060602050505020204}Lucida Fax;}{\f135\fmodern\fcharset0\fprq1{\*\panose 020b0509030504030204}Lucida Sans Typewriter;}{\f136\fswiss\fcharset0\fprq2{\*\panose 020e0502030308020204}Maiandra GD;}
+{\f137\fscript\fcharset0\fprq2{\*\panose 03020802060602070202}Matura MT Script Capitals;}{\f138\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Mead Bold;}{\f139\fnil\fcharset0\fprq2{\*\panose 01010101010101010101}Mercurius Script MT Bold;}
+{\f140\fscript\fcharset0\fprq2{\*\panose 03090702030407020403}Mistral;}{\f141\froman\fcharset0\fprq2{\*\panose 02070704070505020303}Modern No. 20;}{\f142\fscript\fcharset0\fprq2{\*\panose 03010101010201010101}Monotype Corsiva;}
+{\f143\fdecor\fcharset0\fprq2{\*\panose 04050602080702020203}Onyx;}{\f144\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Parties MT;}{\f145\froman\fcharset0\fprq2{\*\panose 02020502060401020303}Perpetua;}
+{\f146\froman\fcharset0\fprq2{\*\panose 02020502060505020804}Perpetua Titling MT;}{\f147\fswiss\fcharset0\fprq2{\*\panose 020b0606030402050204}Placard Condensed;}{\f148\fdecor\fcharset0\fprq2{\*\panose 040506030a0602020202}Playbill;}
+{\f149\fdecor\fcharset0\fprq2{\*\panose 040c0101020201010102}Ransom;}{\f150\froman\fcharset0\fprq2{\*\panose 02060603020205020403}Rockwell;}{\f151\froman\fcharset0\fprq2{\*\panose 02060603050405020104}Rockwell Condensed;}
+{\f152\froman\fcharset0\fprq2{\*\panose 02060903040505020403}Rockwell Extra Bold;}{\f153\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Signs MT;}{\f154\fdecor\fcharset0\fprq2{\*\panose 04040a07060a02020202}Snap ITC;}
+{\f155\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Sports Three MT;}{\f156\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Sports Two MT;}{\f157\fdecor\fcharset0\fprq2{\*\panose 040409050d0802020404}Stencil;}
+{\f158\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Transport MT;}{\f159\fnil\fcharset2\fprq2{\*\panose 05010101010101010101}Vacation MT;}{\f160\fscript\fcharset0\fprq2{\*\panose 03070502030502020203}Viner Hand ITC;}
+{\f161\froman\fcharset0\fprq2{\*\panose 020a0a07050505020404}Wide Latin;}{\f162\froman\fcharset2\fprq2{\*\panose 05020102010507070707}Wingdings 2;}{\f163\froman\fcharset2\fprq2{\*\panose 05040102010807070707}Wingdings 3;}
+{\f164\fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Dom Casual;}{\f165\fdecor\fcharset0\fprq2{\*\panose 04090605060d06020702}Jokerman;}{\f166\fdecor\fcharset0\fprq2{\*\panose 04030805020b02020404}Stop;}
+{\f167\fdecor\fcharset0\fprq2{\*\panose 04010101010101010101}Flexure;}{\f168\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Franklin Gothic Demi Cond Balti;}
+{\f169\fswiss\fcharset161\fprq2{\*\panose 00000000000000000000}Franklin Gothic Medium Cond Gre;}{\f170\fswiss\fcharset186\fprq2{\*\panose 00000000000000000000}Franklin Gothic Medium Cond Bal;}{\f267\fswiss\fcharset238\fprq2 Tahoma CE;}
+{\f268\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f270\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f271\fswiss\fcharset162\fprq2 Tahoma Tur;}{\f272\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f297\fswiss\fcharset238\fprq2 Arial Black CE;}
+{\f298\fswiss\fcharset204\fprq2 Arial Black Cyr;}{\f300\fswiss\fcharset161\fprq2 Arial Black Greek;}{\f301\fswiss\fcharset162\fprq2 Arial Black Tur;}{\f302\fswiss\fcharset186\fprq2 Arial Black Baltic;}{\f339\fscript\fcharset238\fprq2 Comic Sans MS CE;}
+{\f340\fscript\fcharset204\fprq2 Comic Sans MS Cyr;}{\f342\fscript\fcharset161\fprq2 Comic Sans MS Greek;}{\f343\fscript\fcharset162\fprq2 Comic Sans MS Tur;}{\f344\fscript\fcharset186\fprq2 Comic Sans MS Baltic;}
+{\f387\fswiss\fcharset238\fprq2 Impact CE;}{\f388\fswiss\fcharset204\fprq2 Impact Cyr;}{\f390\fswiss\fcharset161\fprq2 Impact Greek;}{\f391\fswiss\fcharset162\fprq2 Impact Tur;}{\f392\fswiss\fcharset186\fprq2 Impact Baltic;}
+{\f489\fswiss\fcharset238\fprq2 Verdana CE;}{\f490\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f492\fswiss\fcharset161\fprq2 Verdana Greek;}{\f493\fswiss\fcharset162\fprq2 Verdana Tur;}{\f494\fswiss\fcharset186\fprq2 Verdana Baltic;}
+{\f537\fswiss\fcharset238\fprq2 Arial Narrow CE;}{\f538\fswiss\fcharset204\fprq2 Arial Narrow Cyr;}{\f540\fswiss\fcharset161\fprq2 Arial Narrow Greek;}{\f541\fswiss\fcharset162\fprq2 Arial Narrow Tur;}{\f542\fswiss\fcharset186\fprq2 Arial Narrow Baltic;}
+{\f543\froman\fcharset238\fprq2 Bookman Old Style CE;}{\f544\froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f546\froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f547\froman\fcharset162\fprq2 Bookman Old Style Tur;}
+{\f548\froman\fcharset186\fprq2 Bookman Old Style Baltic;}{\f555\froman\fcharset238\fprq2 Garamond CE;}{\f556\froman\fcharset204\fprq2 Garamond Cyr;}{\f558\froman\fcharset161\fprq2 Garamond Greek;}{\f559\froman\fcharset162\fprq2 Garamond Tur;}
+{\f560\froman\fcharset186\fprq2 Garamond Baltic;}{\f585\fmodern\fcharset238\fprq1 Lucida Console CE;}{\f586\fmodern\fcharset204\fprq1 Lucida Console Cyr;}{\f588\fmodern\fcharset161\fprq1 Lucida Console Greek;}
+{\f589\fmodern\fcharset162\fprq1 Lucida Console Tur;}{\f609\fswiss\fcharset238\fprq2 Lucida Sans Unicode CE;}{\f610\fswiss\fcharset204\fprq2 Lucida Sans Unicode Cyr;}{\f612\fswiss\fcharset161\fprq2 Lucida Sans Unicode Greek;}
+{\f613\fswiss\fcharset162\fprq2 Lucida Sans Unicode Tur;}{\f849\fswiss\fcharset238\fprq2 Franklin Gothic Book CE;}{\f850\fswiss\fcharset204\fprq2 Franklin Gothic Book Cyr;}{\f852\fswiss\fcharset161\fprq2 Franklin Gothic Book Greek;}
+{\f853\fswiss\fcharset162\fprq2 Franklin Gothic Book Tur;}{\f854\fswiss\fcharset186\fprq2 Franklin Gothic Book Baltic;}{\f855\fswiss\fcharset238\fprq2 Franklin Gothic Demi CE;}{\f856\fswiss\fcharset204\fprq2 Franklin Gothic Demi Cyr;}
+{\f858\fswiss\fcharset161\fprq2 Franklin Gothic Demi Greek;}{\f859\fswiss\fcharset162\fprq2 Franklin Gothic Demi Tur;}{\f860\fswiss\fcharset186\fprq2 Franklin Gothic Demi Baltic;}{\f861\fswiss\fcharset238\fprq2 Franklin Gothic Demi Cond CE;}
+{\f862\fswiss\fcharset204\fprq2 Franklin Gothic Demi Cond Cyr;}{\f864\fswiss\fcharset161\fprq2 Franklin Gothic Demi Cond Greek;}{\f865\fswiss\fcharset162\fprq2 Franklin Gothic Demi Cond Tur;}
+{\f866\fswiss\fcharset186\fprq2 Franklin Gothic Demi Cond Baltic;}{\f867\fswiss\fcharset238\fprq2 Franklin Gothic Heavy CE;}{\f868\fswiss\fcharset204\fprq2 Franklin Gothic Heavy Cyr;}{\f870\fswiss\fcharset161\fprq2 Franklin Gothic Heavy Greek;}
+{\f871\fswiss\fcharset162\fprq2 Franklin Gothic Heavy Tur;}{\f872\fswiss\fcharset186\fprq2 Franklin Gothic Heavy Baltic;}{\f873\fswiss\fcharset238\fprq2 Franklin Gothic Medium CE;}{\f874\fswiss\fcharset204\fprq2 Franklin Gothic Medium Cyr;}
+{\f876\fswiss\fcharset161\fprq2 Franklin Gothic Medium Greek;}{\f877\fswiss\fcharset162\fprq2 Franklin Gothic Medium Tur;}{\f878\fswiss\fcharset186\fprq2 Franklin Gothic Medium Baltic;}{\f879\fswiss\fcharset238\fprq2 Franklin Gothic Medium Cond CE;}
+{\f880\fswiss\fcharset204\fprq2 Franklin Gothic Medium Cond Cyr;}{\f882\fswiss\fcharset161\fprq2 Franklin Gothic Medium Cond Greek;}{\f883\fswiss\fcharset162\fprq2 Franklin Gothic Medium Cond Tur;}
+{\f884\fswiss\fcharset186\fprq2 Franklin Gothic Medium Cond Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;
+\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\nowidctlpar\adjustright \f5 
+\snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}}{\info{\title The CNS format}{\author Benny Wijatno}{\operator Benny Wijatno}{\creatim\yr1999\mo8\dy16\hr10\min13}{\revtim\yr1999\mo8\dy16\hr16\min6}{\version46}{\edmins147}{\nofpages23}
+{\nofwords5924}{\nofchars33768}{\*\company  }{\nofcharsws41469}{\vern71}}\widowctrl\ftnbj\aenddoc\ftnrestart\hyphcaps0\viewkind4\viewscale110 \fet0\sectd \pgnrestart\linex0\colsx0\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}
+{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}
+{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9
+\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \nowidctlpar\widctlpar\adjustright \f5 {\f6\fs20\cf1 The CNS format
+\par ==============
+\par M.U.G.E.N, Elecbyte (c)1999
+\par 
+\par Beta-release documentation (incomplete)
+\par Updated 16 Aug 99
+\par 
+\par 
+\par Contents
+\par --------
+\par Section I.    Introduction
+\par Section II.   Player Variables
+\par Section III.  States
+\par Appendix A.   State Trigger Index
+\par Appendix B.   State Controller Index
+\par Appendix C.   Special State Controller Numbers
+\par 
+\par 
+\par ============================================================
+\par I. Introduction
+\par ============================================================
+\par 
+\par The CNS file of a player serves two purposes:
+\par i. It defines the variables of that player, such as walking speed, drawing scale factor, and so on.
+\par ii. It contains the states of the player, which describe all the moves that the player can do. States are the building blocks that you can use to create simple as well as complicated moves.
+\par 
+\par Like many other character files, the CNS is a text file that you can edit with any text editor. 
+\par 
+\par In the CNS file, a semicolon (;) is considered a "comment" character. Any text on the same line after the semicolo
+n will be ignored by the program. The CNS is mostly case-insensitive, i.e. "MyName" is treated the same as "myname" and "mYnAMe". The only exception is the "command" state controller, but you do not need to worry about this for now.
+\par 
+\par Some terminology
+\par ----------------
+\par When we say "group", we mean any block of lines of text beginning with something that looks like [groupname], and ending before the next group. For example, the group "Blah" consists of the first three lines in the following:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Blah]
+\par line1
+\par line2
+\par [Group 2]
+\par more lines
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par Within a group, the order of parameters can appear in any order. So,
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [SomeGroup]
+\par value1 = 1234
+\par value2 = A string
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par is equivalent to:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [SomeGroup]
+\par value2 = A string
+\par value1 = 1234
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 
+\par 
+\par ============================================================
+\par II. Player Variables
+\par ============================================================
+\par 
+\par No full documentation yet. See chars/kfm/kfm.cns for comments on each variable.
+\par 
+\par Some importants one to note:
+\par - In [Size], you can use "xscale" and "yscale" to change the width and height of your character. This saves the trouble of scaling every single one of the sprites. 
+\par - Set up the speeds of the player in [Velocity]
+\par - Set the player's downward acceleration -- "yaccel" in [Movement]
+\par 
+\par 
+\par 
+\par ============================================================
+\par III. States
+\par ============================================================
+\par 
+\par a. Introduction to States
+\par b. Basic Parts of a State
+\par c. Details on StateDef
+\par d. Details on State Controllers
+\par e. Common states (common1.cns)
+\par 
+\par 
+\par -----------------------------
+\par III.a. Introduction to States
+\par -----------------------------
+\par Programming states is the hardest part of creating a character. It entails a lot of work, testing, and sometimes trial-and-error. In this section, well often refer the playe
+r being programmed, and to his opponent as well. Let us call the player whose states we are editing P1, and his opponent P2.
+\par 
+\par Do not be discouraged if you do not understand a lot of this document on your first reading. The best way to learn about states is
+ to first play around with values in the CNS of a completed character, and see what effects they have on him or her. There's nothing to fear from "tweaking" the CNS; M.U.G.E.N is designed to detect syntax errors and report them.
+\par 
+\par Included with the M.U.G.E.N distribution package is a character named Kung Fu Man (KFM for short.) You can find him in the directory chars/kfm.
+\par 
+\par How you enter a state is programmed in the CMD file. See the CMD document for more information.
+\par 
+\par Here are some concepts that will be useful for you to know:
+\par 1. Life and power
+\par 2. Control
+\par 3. Game-time and state-time
+\par 4. Position, velocity and acceleration
+\par 5. Juggling
+\par 
+\par 1. Life and power
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 A player's life bar is the yellow bar at the top of the screen on his side of the screen. When the life bar r
+eaches zero, the player is knocked out. His power bar is the blue bar, and that increases with each attack he gives or takes. When the power bar reaches certain values, he can do super moves.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 2. Control
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 When we say a player "has control", we mean that he 
+is ready to walk or jump or attack. A player who does not have control will not respond to your input (from keyboard or joystick). For example, when P1 is in his stand state, he has control, and will walk forward if you press the forward button. A player 
+will typically not have control when he is in an attack state, otherwise you could just walk away halfway through a punch.
+\par 
+\par There is an exception to the rule, however. Sometims you can let the player respond to certain moves even if he has no control. That is called a "move interrupt", or a "move cancel". See the CMD documentation for details.
+\par 
+\par We will frequently refer to a player's "control flag". A "flag" is a value that is either true, or false. If we say the player's control flag is true, then it means he has control.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 3. Game-time and state-time
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+M.U.G.E.N keeps track of the time that has passed in the game. Every time the game is updated (this includes updating the players, checking collisions, and drawing to the screen), we say game-time has increased by one.
+\par The time a player has spent in a state is known as the "state-time". The state-time starts at 0 at the beginning of a state, and increases by one tick for every tick of game-time.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 4. Position, velocity and acceleration
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 Those of you with basic knowledge of math should understand these concepts. M.U.G.E.N uses the following coordinate system.
+\par The greater the X-position, the farther right the player is. The less the X-position, the closer he is to the left.
+\par A Y-position of zero is at ground level. As the player's Y-position gets larger he moves downwards. For example, a negative Y-position means he is in the air.
+\par Similarly, when we say a player has positive X-velocity, it means he is moving forward, and if he as negative X-velocity, he is moving backwards. A player with positive Y-velocity is moving downward, and a negative Y-velocity means he is moving up.
+\par A positive X-acceleration means the player's X-velocity is increasing, a negative X-acceleration means his X-velocity is decreasing. Likewise for Y-acceleration.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 5. Juggling
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+M.U.G.E.N allows for certain moves to "juggle", that is, to hit opponents who have been knocked into the air, or are lying down on the ground. The juggling system works this way: each person starts with a set number of juggle "poi
+nts" on the first hit that makes them fall, typically 15.
+\par Some quick terminology: when we say a player is "falling", then we mean he does not recover control in the air, and will fall onto the ground.
+\par If a player is hit while he is in the falling in the ai
+r or lying down on the ground, then his juggle points will decrease by an amount depending on the attack. When an attack requires more juggle points than the opponent has left, then the attack will miss. Any move that causes the opponent to fall immediate
+ly subtracts its juggle points on the first hit.
+\par For example, an attack that requires 5 juggle points could theoretically be used to juggle the opponent twice, leaving the opponent with 1 point left. Subsequent such attacks will miss.
+\par The reason for this juggle system is to prevent infinite combos in the air.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 
+\par -----------------------------
+\par III.b. Basic Parts of a State
+\par -----------------------------
+\par 
+\par Note: This section assumes you have at least browsed the documentation of AIR files, and understand the concepts of animation, as know the meaning of key words and phrases such as action and element of an action.
+\par 
+\par Here is a short example state for P1:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Statedef 200]
+\par type = S
+\par physics = S
+\par movetype = I
+\par ctrl = 0
+\par anim = 200
+\par velset = 0
+\par 
+\par [State 200, 1]
+\par type = ChangeState
+\par trigger1 = AnimTime = 0
+\par value = 0
+\par ctrl = 1}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par This state plays back the Action 200 of P1s animation, and returns P1 to his standing state after the animation has ended. In this case, assume Action 200 has a finite looptime. That is, Action 200 does not have any elements with time equal to -1.
+\par 
+\par At this point, you do not need to worry about the details. Let us begin by knowing what a state consists of.
+\par 
+\par All states must have a single Statedef section and one or more State sections. 
+\par 
+\par Statedef contains the starting information of a state, such as what kind of state it is (standing, crouching, in the air) and what kind of move he is doing (attacking, idling.) 
+\par 
+\par Each State section is referred to as a state controller, or a controller for short. Controllers tell t
+he program what to do to P1, and when to do it. There are many kinds of controllers, each with its own function. For example, there are controllers to change the players position or velocity, define the effects of attacks, create projectiles, switch betwe
+e
+n animation Actions, change states, and so on. Each controller must have at least one trigger. A trigger is an event that causes the controller to be activated. Examples are: trigger at the start of the state, trigger at the end of the animation (as seen 
+in the example State above), trigger on an element of an animation Action, trigger when P2 is within a certain range of P1, and so on.
+\par 
+\par 
+\par --------------------------
+\par III.c. Details on StateDef
+\par --------------------------
+\par 
+\par Every state must begin with exactly one StateDef group, also known as a Statedef section. A StateDef group must look like this (put in one or more parameters where the dots are):
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Statedef }{\i\f6\fs16\cf1 state_number}{\f6\fs16\cf1 ]
+\par . }{\i\f6\fs16\cf1 state_parameters}{\f6\fs16\cf1 
+\par .
+\par .
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 Replace }{\i\f6\fs20\cf1 state_number}{\f6\fs20\cf1  with the number of the state you are programmin
+g. With the exception of the special group numbers (see Appendix C) you are allowed to use any state number you choose. 
+\par 
+\par The lines that follow should include the following parameters:
+\par 1. type
+\par 2. movetype
+\par 3. physics
+\par 4. anim
+\par 
+\par 1. type
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 This is the state type 
+of P1 in that state. It defines if he is standing, crouching, in the air, or lying down. The corresponding values are "S", "C" , "A" and "L" respectively (without the quotation marks). If this line is omitted, it assumes the type is "S". You will most com
+monly use "S", "C" and "A". For example, a crouching state type would require the line:
+\par 
+\par }{\f6\fs16\cf1 type = C}{\f6\fs20\cf1 
+\par 
+\par The type is used to determine several factors, most importantly, how P1 will react to being hit. For example, being in a "stand"-type state, P1 will react as 
+if he is standing on the ground. If the type was "air", then P1 would react to the hit accordingly.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 2. movetype
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 This is the type of move P1 is doing: "A" for attack, "I" for idle and "H" for being hit. The value is assumed to be "I" if this line is omitte
+d. "A" and "H" should be self-explanatory. "I" is used for states where P1 is neither attacking, nor being hit. For example, an attack state should have the line:
+\par 
+\par }{\f6\fs16\cf1 movetype = A}{\f6\fs20\cf1 
+\par 
+\par You need to specify the movetype so the program will know how to process the state. Incorrectly specifying the movetype may cause P1 to act incorrectly.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 3. physics
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 You need to specify what physics to use in that state. Valid values are "S" for stand, "C" for crouch, "A" for air, and "N" for none. If omitted, the value of "N" is ass
+umed. The kind of physics is used to determine how P1 behaves.
+\par 
+\par For "S" physics, P1 will experience friction with the ground. The value for the friction coefficient is set in the Player Variables (see section II).
+\par For "C" physics, P1 will experience friction, just like in the "S" state.
+\par For "A" physics, P1 will accelerate downwards, and if his Y-position is greater than 0 (ie. he touches the ground) he will immediately go into his landing state.
+\par If you use "N" P1 will not use any of these pre-programmed physics.
+\par 
+\par Do not confuse "physics" with the state "type". They are usually the same, but you are given the choice if you want more control. 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 4. anim
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 This parameter changes the Animation Action of P1. Specify the action number as the value. If you do not want P1 to change animation at the start of the state, omit this parameter.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par So to have a state with number 400, where the player is doing a crouching attack with Action 400, the typical parameters would be:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Statedef 400]
+\par type = c
+\par movetype = a
+\par physics = c
+\par anim = 400}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 
+\par The other optional parameters that you can use are:
+\par 4. velset
+\par 5. ctrl
+\par 6. poweradd
+\par 7. juggle
+\par 
+\par 4. velset
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 You can use velset to set P1's velocity at the beginning of the state. The format is a number pair, representing the x velocity and the y velo
+city respectively. Omitting this line will leave P1's velocity unchanged. For example, 
+\par }\pard \li720\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 velset = 4,-8
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 makes P1 start moving diagonally up and forwards.
+\par There is an exception to this. Even if you have velset = 0, attacking P2 in the corner will push P1 away.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 5. ctrl
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 This parameter will set P1's control. A value of "0" sets the flag to false, "1" sets it to true. If omitted, P1's control flag is left unchanged. For example, to give P1 control, use
+\par }\pard \li720\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 ctrl = 1}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 6. poweradd
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 When included, the poweradd parameter a
+dds to the player's power bar. The value is a number, and can be positive or negative. This parameter is typically used in attack moves, where you want the player to gain power just by performing the attack. For example, to add 40 power, type
+\par }\pard \li720\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 poweradd = 40
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 7. juggle
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+The juggle parameter is useful only for attacks. It specifies how many points of juggling the move requires. If omitted for an attack, that attack will juggle if the previous attacking state successfully juggled. You should include the juggle p
+arameter for all attacks. If an attack spans more than one state, include the juggle parameter only in the first state of that attack. Juggling was explained in detail in "Useful Concepts" in Section IIIa.
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par 
+\par -----------------------------------
+\par III.d. Details on State Controllers
+\par -----------------------------------
+\par 
+\par d.1 Controller Format
+\par d.2 Triggers
+\par d.3 Commonly-used controllers
+\par 
+\par 
+\par III.d.1 Controller Format
+\par -------------------------
+\par All states must have at least one state controller, otherwise it will cause an error. State controller groups have the following format:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State }{\i\f6\fs16\cf1 state_number}{\f6\fs16\cf1 ,}{\i\f6\fs16\cf1  some_number}{\f6\fs16\cf1 ]
+\par type = }{\i\f6\fs16\cf1 controller_type}{\f6\fs16\cf1 
+\par trigger1 = }{\i\f6\fs16\cf1 trigger_type}{\f6\fs16\cf1 
+\par .  }{\i\f6\fs16\cf1 additional parameters depending on controller}{\f6\fs16\cf1 
+\par .
+\par .}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par The }{\i\f6\fs20\cf1 state_number}{\f6\fs20\cf1  must be the same number of the state from the statedef. }{\i\f6\fs20\cf1 some_number}{\f6\fs20\cf1 
+ can be any number you choose; it is the number that is reported when an error is found, so you know which controller needs to be fixed. 
+\par 
+\par The }{\i\f6\fs20\cf1 controller_type}{\f6\fs20\cf1  is the name of the controller you are using. Each type of controller has a different effect, and requires different parameters. See Appendix B for a full list of state controllers.
+\par 
+\par The order of the controllers is significant. Controllers listed first are the ones checked and, if necessary, activated first.
+\par 
+\par Here is an example of a controller that gives P1 control at the start of the state (the same effect as putting "ctrl = 1" as a parameter in the StateDef):
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 300, 1] ;State 300. 1 is just an arbitrary number.
+\par type = CtrlSet ;Changes the control flag.
+\par trigger1 = Time = 0
+\par value = 1}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par In this example, the CtrlSet type lets you change the control flag of P1. The line that reads "trigger1 = Time = 0" means that this controller is activated when the state-time is 0, ie. at the start of that state. The line "value = 1" says that
+ we want to set the value of the control flag to 1, which means true. If we want to make P1 start the state with no control, then we just need to change the last line to "value = 0".
+\par 
+\par Let's look another example. This controller moves P1 forwards by 10 pixe
+ls twice: on the second and third element of his current Animation Action. Don't worry if you don't know what parameters go with which controller types. You can learn more about them from Appendix B.
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 300, 2]
+\par type = PosAdd ;Adds to P1's position
+\par trigger1 = AnimElem = 2 ;Trigger on 2nd element.
+\par trigger2 = AnimElem = 3 ;Trigger on 3rd element.
+\par x = 10
+\par }{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 As you see above, each controller must have at least one trigger. A trigger is an event that causes the controller to be activated. This example has two 
+triggers, and the controller is activated when EITHER ONE is true.
+\par 
+\par III.d.2 Triggers
+\par ----------------
+\par }{\f6\fs20\ul\cf1 i. Trigger logic
+\par }{\f6\fs20\cf1 
+\par The first trigger should always be "trigger1", and subsequent triggers should be "trigger2", then "trigger3" and so on. The logic for deciding if a controller should be activated is:
+\par 1. Are all conditions of "trigger1" true? If so, then yes, activate the controller.
+\par 2. Otherwise, repeat the test for "trigger2", and so on, until no more triggers are found.
+\par This can be thought of as "OR" logic.
+\par 
+\par Be careful; skipping numbers will cause some triggers to be ignored. For example, if you have triggers "trigger1", "trigger2" and "trigger4" without a "trigger3", then "trigger4" will be ignored.
+\par 
+\par Now what if you want more than one condition to be met before the controller is activated? Here is an commonly-used example for testing if a player in the air has reached the ground. The triggers used are:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Vel Y > 0 ; True if Y-velocity is > 0 (going down)
+\par trigger1 = Pos Y > 0 ; True if Y-position is > 0 (below ground)
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 At this point, you may be confused by the format of the trigger. Do not worry about it for now. We will get to it soon.
+\par As you can see above, both the triggers have the same number. When several triggers have the same number, it imple
+ments the "AND" logic. That is, the controller is activated if every one of the triggers with the same number is true, but not if one or more of them is false.
+\par 
+\par You can combine both ideas. For example:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Vel Y > 0 ; True if Y-velocity is > 0 (going down)
+\par trigger1 = Pos Y > 0 ; True if Y-position is > 0 (below ground)
+\par trigger2 = Time = 5  ; True if state-time is 5
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 The controller for this would be activated if the player landed on the ground (Y-velocity and Y-Position are both > 0), OR if his state time was 5.
+\par 
+\par Here is a summary:
+\par - Triggers with the same number activate the controller only if all of them are true.
+\par - Triggers with different numbers activate the controller if any one or more of them are true.
+\par 
+\par The format of a trigger is:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger? = }{\i\f6\fs16\cf1 trigger_type}{\f6\fs16\cf1  }{\i\f6\fs16\cf1 trigger_test}{\f6\fs16\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\i\f6\fs20\cf1 trigger_type}{\f6\fs20\cf1  is the name of the trigger (see Appendix A for the full list). The }{\i\f6\fs20\cf1 trigger_test}{\f6\fs20\cf1  depends on the }{\i\f6\fs20\cf1 trigger_type}{
+\f6\fs20\cf1 , and is usually a simple mathematical test such as " = }{\i\f6\fs20\cf1 value}{\f6\fs20\cf1 ". For example, in :
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Time != 5
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 The trigger_type is "Time", and the trigger_test is " != 5".
+\par In:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Vel Y > 0}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 The trigger_type is "Vel Y", and the trigger_test is " > 0".
+\par 
+\par The comparison symbols you can use are:
+\par =      equal to
+\par !=     not equal to
+\par <      less than
+\par >      greater than
+\par <=     less than or equal to
+\par >=     greater than or equal to
+\par 
+\par If you want to test to see if a value is in a certain range, you can use the range equality test. For example,
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Time = [5,10]
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 This will be true if the state-time is between 5 and 10, inclusive. In other words, true if state-time >= 5 AND state-time <= 10.
+\par The following:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Vel X = (2,5)
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 Is true if the X-velocity of the player is between 2 and 5, non-inclusive. In other words, true if X-velocity > 2 AND X-velocity < 5.
+\par You can mix the range test types, such as:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 trigger1 = Pos Y = [-12, -2)
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 Remember that in range tests, the smaller value should be on the left.
+\par 
+\par A useful shortcut you might use is "triggerall". It determines a condition that must be true for all triggers. For instance in:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 triggerall = Vel X = 0
+\par trigger1 = Pos Y > -2
+\par trigger2 = AnimElem = 3
+\par trigger3 = Time = [2,9]}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par For any of trigger1 to trigger3 to be true, the triggerall condition must be true too. In this case, as long as the X-velocity is not 0, then the state controller will not be activated. You can have more than one triggerall condition if you need.
+\par 
+\par }{\f6\fs20\ul\cf1 ii. Trigger persistency
+\par }{\f6\fs20\cf1 
+\par In the case where you do not want the trigger to activate every single time the condition is true, you will need to add a "persistent" paramter. Let us begin with an example:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 310, 1]
+\par type = PosAdd
+\par trigger1 = Vel Y > 1
+\par x = 10
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par This state controller moves P1 forwards by 10 pixels for every tick of game time where P1's Y-velocity is greater than 1. That is, the controller is being activated e
+verytime the trigger condition is true. If we want the controller to be activated only once, we will need to add a line:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 310, 1]
+\par type = PosAdd
+\par trigger1 = Vel Y > 1
+\par persistent = 0       ;<-- Added this line
+\par x = 10
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par "Persistent" has a default value of 1, meaning that the controller is activated everytime the trigger is true.
+\par Setting "persistent" to 0 allows the controller to be activated only once during that state. This holds true until P1 leaves that state. If P1 returns to that state later, the controller can be activated once again.
+\par 
+\par The "persistent" parameter can also take values other than 0 and 1:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 310, 1]
+\par type = PosAdd
+\par trigger1 = Vel Y > 1
+\par persistent = 2       ;<-- Modified this line
+\par x = 10
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par In this case, setting "persistent" to 2 means the controller will be activated once of every two times the trigger is true. Setting "persistent" to 3 activates the controller every 3rd time, and so on.
+\par 
+\par III.d.3 Commonly-used controllers
+\par ---------------------------------
+\par 
+\par The "Null" controller will be useful for debugging. A "null" controller basically does nothing. You can use it to temporarily turn off certain controllers, instead of commenting out the entire section. For example, you might want to disable this:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 300, 1] ;Controller that accelerates P1 forwards
+\par type = VelAdd
+\par trigger1 = Time >= 0
+\par x = .8
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par Simply comment out the type and put in "null":
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [State 300, 1] ;Controller that accelerates P1 forwards
+\par type = null ;VelAdd
+\par trigger1 = Time >= 0
+\par x = .8
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par Later, when you want to reenable the controller, just change the type back to what it used to be.
+\par 
+\par Now let us look back at the example:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Statedef 200]
+\par type = S
+\par physics = S
+\par movetype = I
+\par ctrl = 0
+\par anim = 200
+\par velset = 0
+\par 
+\par [State 200, 1]
+\par type = ChangeState
+\par trigger1 = AnimTime = 0
+\par value = 0
+\par ctrl = 1}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par [State 200, 1] is a "ChangeState" controller. As the name implies, it changes P1's state number. The "value" parameter should have the number of the state to change to. The optional "ctrl" parameter can be set P1's control flag as he changes states.
+
+\par 
+\par Now let
+'s make this an attack state. First of all, the animation action needs attack collision boxes. A quick review from the air documentation: Clsn1 is for attack and Clsn2 is where the player can be hit. So P1 will hit P2 if any one of P1's Clsn1 boxes inters
+ects with any of P2's Clsn2 boxes.
+\par 
+\par As an example, let's assume the animation action in P1's AIR file looks like this:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Begin Action 200]
+\par 200,0, 0,0, 3
+\par 200,1, 0,0, 4
+\par 200,2, 0,0, 4
+\par 200,3, 0,0, 3}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par After defining the bounding boxes, it looks like:
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Begin Action 200]
+\par Clsn2: 1
+\par   Clsn2[0] = -10,0, 10,-80
+\par 200,0, 0,0, 3
+\par Clsn1: 1
+\par   Clsn1[0] =  10,-70, 40,-60
+\par Clsn2: 2
+\par   Clsn2[0] = -10,  0, 10,-80
+\par   Clsn2[1] =  10,-70, 40,-60
+\par 200,1, 0,0, 4
+\par Clsn2Default: 1 ;Use this box for the last two frames
+\par   Clsn2[0] = -10,0, 10,-80
+\par 200,2, 0,0, 4
+\par 200,3, 0,0, 3}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par As you can see, each element has a Clsn2 box defined for it (the last two elements are using the same boxes). The second element is the only one with a Clsn1 box.
+\par 
+\par Note: It is all right to define Clsn1 boxes for any elements
+ in an Animation Action, but if you put a Clsn1 box in the very first element, the attack will be instantaneous, and become unblockable. Therefore, it is recommended that you define Clsn1 boxes only for elements after the first one.
+\par 
+\par Now we are ready to set up the state in the CNS. We will explain the changes below.
+\par 
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 [Statedef 200]
+\par type = S
+\par physics = S
+\par movetype = A  ;<-- changed from "I" to "A"
+\par ctrl = 0
+\par anim = 200
+\par velset = 0
+\par 
+\par [State 200, 1] ;<-- Added this state controller
+\par type = HitDef
+\par trigger1 = AnimElem = 2
+\par attr = S, NA
+\par animtype  = Light
+\par damage    = 10
+\par guardflag = MA
+\par pausetime = 12,12
+\par sparkxy = 0,-55
+\par hitsound   = 5,0
+\par guardsound = 6,0
+\par ground.type = High
+\par ground.slidetime = 12
+\par ground.hittime  = 15
+\par ground.velocity = -5
+\par air.velocity = -2.5,-3.5
+\par 
+\par [State 200, 2]
+\par type = ChangeState
+\par trigger1 = AnimTime = 0
+\par value = 0
+\par ctrl = 1}{\f6\fs20\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 
+\par The "movetype" parameter in the StateDef is set to "A" for "attack". Remember to do this for all attack states. As before, P1 changes back to his standing state after his animation is over.
+\par 
+\par That HitDef controller looks like a monster! Do not worry, we will go through it slowly.
+\par 
+\par L1: type = HitDef
+\par L2: trigger1 = AnimElem = 2
+\par This specifies the controller type as "HitDef", which stands for "Hit Definition". It is triggered on the second element of animation. Any Clsn2 box from the time the trigger was activated will take on this hit definition.
+\par If, for example, you had a Clsn1 in both the second and third element of animation, triggering a single HitDef at the second element makes it apply to bot
+h elements of animation. So P1 will hit at most once: if the second element hits, the third will miss. If the second element misses, the third can still hit. To make the attack hit twice, you must trigger a HitDef for each of the two elements.
+\par 
+\par L3: attr = S, NA
+\par This is the attribute of the attack. It is used to determine if the attack can hit P2. In this case, it is a Standing Normal Attack.
+\par "attr" has the format:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 attr = }{\i\f6\fs16\cf1 arg1}{\f6\fs16\cf1 , }{\i\f6\fs16\cf1 arg2}{\f6\fs16\cf1 
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs20\cf1 Where:
+\par - arg1 is either "S", "C" or "A". Similar to "statetype" for the StateDef, this says whether the attack is a standing, crouching, or aerial attack.
+\par - arg2 is a 2-character string. The first character is either "N" for "normal", "S" for "special", or "H" for "hyper" (or "super", as it is commonly known). The second character
+ must be either "A" for "attack" (a normal hit attack), "T" for "throw", or "P" for projectile.
+\par 
+\par L4: animtype = Light
+\par This refers to the type of animation that P2 will go into when hit by the attack. Choose from "light", "medium", "hard" or "back". The first three should be self-explanatory. "Back" is the animation where P2 is knocked off her feet.
+\par 
+\par L5: damage = 10
+\par This is the damage that P2 takes when hit, and it does no damage if guarded. If we changed that line to "damage = 10, 1", then it will do 1 point of damage if guarded.
+\par 
+\par L6: guardflag = MA
+\par "Guardflag" determines how P2 may guard the attack. Here, it may be guarded high(standing), low (crouching) and in the air. The argument must be a string of characters that includes any of the following: "H" for 
+"high", "L" for "low" or "A" for air. "M" (mid) is equivalent to saying "HL".
+\par 
+\par L7: pausetime = 12,12
+\par This is the time that each player will pause on the hit. The first argument is the time to freeze P1, measured in game-ticks. The second is the time to make P2 shake before recoiling from the hit.
+\par 
+\par L8: sparkxy = 0,-55
+\par This is where to make the hit/guard spark. The arguments must be in the form "x, y". x is relative to the front of P2. A negative x makes a spark deeper inside P2. y is relative to P1. A negative y makes a spark higher up.
+\par 
+\par L9: hitsound = 5,0
+\par This is the sound to play on hit (from fight.snd). The included fight.snd lets you choose from 5,0 (light hit sound) through to 5,4 (painful whack).
+\par 
+\par L10: guardsound = 6,0
+\par This is the sound to play on guard (from fight.snd). Right now all we have is 6,0.
+\par 
+\par L11: ground.type = High
+\par This is the kind of attack for ground attacks (it also defaults to air attacks if you do not have "air.type = ?"). In this case, it is a high attack. Choose from "High" for attacks t
+hat make P2's head snap backwards, "Low" for attacks that look like that hit in the stomach, "Trip" for low sweep attacks, or "None" to not do anything to P2. "High" and "Low" attacks are the same on P2 if the AnimType is "Back".
+\par 
+\par L12: ground.slidetime = 12
+\par This is the time in game-ticks that P2 will slide back for after being hit (this time does not include the pausetime for P2). Applicable only to hits that keep P2 on the ground.
+\par 
+\par L13: ground.hittime = 15
+\par Time that P2 stays in the hit state after being hit. Applicable only to hits that keep P2 on the ground.
+\par 
+\par L14: ground.velocity = -5
+\par Initial X-velocity to give P2 after being hit, if P2 is in a standing or crouching state on the ground. You can specify a Y-velocity as the second argument if you want P2 to be knocked into the air, eg. "ground.velocity = -3, -2".
+\par 
+\par L15: air.velocity = -2.5,-3.5
+\par Initial velocity to give P2 if P2 is hit in the air
+\par 
+\par There are more things that you can control in a HitDef. See Appendix B for details.
+\par 
+\par }{\f2\fs20\cf1 
+\par ------------------------------
+\par e. Common states (common1.cns)
+\par ------------------------------
+\par 
+\par If you look at a player's DEF file, you will see the line:
+\par stcommon = common1.cns  ;Common states
+\par Every player shares some common states, which are the basic parts of the game engine. These c
+ommon states are found in data/common1.cns. Some examples are states for running and getting hit. A full list is available in Appendix C, Special State Controller Numbers.
+\par 
+\par If there is a common state that you would like to override for a certain player, al
+l you need to do is make a state in that player's CNS with the same number as the one you would like to override. Then, when the player changes to that certain state number, he will enter that new state, instead of the one in common1.cns.
+\par 
+\par You should remem
+ber that when overriding certain states that have special properties coded inside M.U.G.E.N, the new states you make will still have the same special properties as the ones you overrode. For example, the run state (state 100) sets the player's velocity to
+ whatever values you specified in his player variables. If you override state 100, the new state will still have the property of setting that player's velocity.
+\par 
+\par A common example is overriding the running state. M.U.G.E.N's default behaviour for the running state is to have the player continue moving forward at a constant speed, until you let go of the forward key. At that point he returns to the stand state.
+
+\par 
+\par Now, let's say we want that player (let us call him P1) to instead hop forward, just like the default double-tap back hop. You can make a state in P1's CNS:
+\par }\pard \li360\nowidctlpar\widctlpar\adjustright {\f2\fs16\cf1 
+\par }\pard \li360\nowidctlpar\adjustright {\f2\fs16 ; RUN_FWD (overridden to dash-type)
+\par [Statedef 100]
+\par type    = S   ;Running is on the ground
+\par physics = N   ;We'll define our own physics
+\par anim = 100    ;Anim action 100
+\par ctrl = 0      ;No control for duration of dash
+\par 
+\par [State 100, 1] ;To start dashing forwards
+\par type = VelSet
+\par trigger1 = Time = [0,5]
+\par x = 6
+\par 
+\par [State 100, 2] ;Friction after initial dash
+\par type = VelMul
+\par trigger1 = Time > 5
+\par x = .85
+\par 
+\par [State 100, 3] ;
+\par type = ChangeState
+\par trigger1 = AnimTime = 0
+\par value = 0
+\par ctrl = 1
+\par }\pard \nowidctlpar\widctlpar\adjustright {\f6\fs16\cf1 
+\par }{\f6\fs20\cf1 Here, we assume that Action 100 has a finite looptime}{\f2\fs20\cf1 . The velocity in "}{\f2\fs20 
+run.fwd" under [Velocity] of the player variables is not really ignored, but [State 100,1] overrides that detail by setting the X-velocity to 6.}{\f2\fs20\cf1 
+\par }{\f6\fs20\cf1 
+\par 
+\par 
+\par ============================================================
+\par Appendix A.  State Trigger Index
+\par ============================================================
+\par 
+\par Commonly-used
+\par -------------
+\par -Time
+\par -AnimTime
+\par -AnimElem
+\par -Pos, Vel
+\par -P2Dist, P2BodyDist
+\par -Command
+\par -StateNo, StateType
+\par -MoveContact, MoveHit, MoveGuard
+\par 
+\par Others
+\par ------
+\par -
+\par 
+\par 
+\par ------------------------------------------------------------
+\par Time
+\par ------------------------------------------------------------
+\par 
+\par Gives the state-time of the player.
+\par 
+\par Format:
+\par   Time (oper) value
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   value (int)
+\par     Value to compare with.
+\par 
+\par Example:
+\par   trigger1 = Time = 2
+\par     Triggers when the player's state-time is 2.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par AnimTime
+\par ------------------------------------------------------------
+\par 
+\par Gives the difference between the looptime of the current animation action and the player's animation-time. Useful for knowing when the end of the animation has been reached. 
+\par (animation-time is the time in game-ticks that the player has spent within the current animation action)
+\par 
+\par Format:
+\par   AnimTime = value
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   value (int)
+\par     Value to compare with. Should be 0 or less.
+\par 
+\par Example:
+\par   trigger1 = AnimTime = 0
+\par     Triggers when the animation-time is equal to the animation
+\par     action's looptime, ie. the end of the action has been
+\par     reached.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par AnimElem
+\par ------------------------------------------------------------
+\par 
+\par Gets the animation-time elapsed since the start of a specified element of the current animation action. Useful for synchronizing events to elements of an animation action.
+\par (reminder: first element of an action is element 1, not 0)
+\par 
+\par Format:
+\par   1.  trigger1 = AnimElem = value1
+\par   2.  trigger1 = AnimElem = value1, (oper) value2
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   value1 (int)
+\par     Element number to check.
+\par   value2 (int)
+\par     Value of animation-time to compare with.
+\par 
+\par Details:
+\par   Trigger in Format 1 is true if the player's animation is
+\par   at the start of the element number specified by value1.
+\par   In other words, if value1 is equal to n, it is true on the
+\par   first game-tick of the nth element of the animation.
+\par   Trigger in Format 2 compares the player's animation-time
+\par   to t+value2, where t is time of the start of the element
+\par   number specified by value1.
+\par   If value1 is an invalid animation element, M.U.G.E.N may
+\par   crash or behave strangely.  
+\par 
+\par Examples:
+\par   trigger1 = AnimElem = 2
+\par     True on the first game-tick that the player's animation
+\par     is on element 2. Is equivalent to saying:
+\par       trigger1 = AnimElem = 2, = 0
+\par 
+\par   trigger1 = AnimElem = 2, = 4
+\par     True 4 game-ticks after the start of the player's
+\par     second animation element.
+\par 
+\par   trigger1 = AnimElem = 2, >= 0
+\par   trigger1 = AnimElem = 3, < 0
+\par     True for the whole of the second element of the player's
+\par     animation, assuming there is a third element. If a
+\par     third element does not exist, the second line should
+\par     read,
+\par       trigger1 = AnimTime <= 0
+\par 
+\par 
+\par ------------------------------------------------------------
+\par Pos, Vel
+\par ------------------------------------------------------------
+\par 
+\par Gets the value of the player's position or velocity. You
+\par must specify the component that you want to check, eg.
+\par "Pos Y" to check the Y-position.
+\par 
+\par Format:
+\par   1.  trigger1 = Pos (component) (oper) valuef1
+\par   2.  trigger1 = Vel (component) (oper) valuef1
+\par 
+\par Arguments:
+\par   (component)
+\par     X, Y
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   valuef1 (decimal)
+\par     The value to compare with.
+\par 
+\par Details:
+\par   For "Pos X", the value is relative to the center of the
+\par   stage (value 0). Negative is left, positive is right.
+\par   For "Pos Y", the value is relative to the floor. Negative
+\par   is higher up, positive is below the floor.
+\par 
+\par Example:
+\par   trigger1 = Pos Y >= 0
+\par     True when the player is below the floor.
+\par 
+\par   trigger1 = Vel X > 0.5
+\par     True when the player's X-velocity greater than 0.5.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par P2Dist, P2BodyDist
+\par ------------------------------------------------------------
+\par 
+\par Gives the distance of P2 from P1, where P1 is the player, and P2 is his opponent. P2BodyDist is useful in the CMD for cases where P1 has an attack that is different when performed close to P2.
+\par 
+\par Format:
+\par   1. trigger1 = P2Dist (component) (oper) valuef1
+\par   2. trigger1 = P2BodyDist (component) (oper) valuef1
+\par 
+\par Arguments:
+\par   (component)
+\par     X, Y
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   valuef1 (decimal)
+\par     The value to compare with.
+\par 
+\par Details:
+\par   For comparing the Y-distance, P2Dist and P2BodyDist work
+\par   exactly the same. The value is negative if P2 is above P1.
+\par   For comparing the X-distance, P2Dist gives the X-distance
+\par   of P2's axis from P1's axis. A positive value indicates P2
+\par   is in front of P1.
+\par   For comparing the X-distance, P2BodyDist gives the
+\par   X-distance of P2's front from P1's front. So, if the
+\par   players are standing right next to each other, then
+\par   P2BodyDist is 0. Remember that you can set the width of
+\par   the player in "front.width", etc. under [Size] in the
+\par   player variables.
+\par 
+\par Example:
+\par   trigger1 = P2Dist Y <= -12
+\par     True if P2 is at least -12 pixels higher up than P1.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par Command
+\par ------------------------------------------------------------
+\par 
+\par Triggers if the user has input the specified command.
+\par 
+\par Format:
+\par   trigger1 = Command (oper) command_name
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=   (other operators not valid)
+\par   command_name (string)
+\par     Name of the command. Commands are defined in the
+\par     player's CMD file, and are case-sensitive.
+\par     If the CMD has multiple commands with the same name,
+\par     then any one of those commands will work.
+\par 
+\par Example:
+\par   trigger1 = fireball_motion
+\par     True if the user inputs the command corresponding to the
+\par     command name "fireball_motion".
+\par 
+\par 
+\par ------------------------------------------------------------
+\par StateNo, StateType
+\par ------------------------------------------------------------
+\par 
+\par StateNo gives the player's state number, while StateType gives the player's state-type. Useful for "move interrupts" in the CMD file.
+\par 
+\par Format:
+\par   1. trigger1 = StateNo (oper1) value1
+\par   2. trigger1 = StateType (oper2) state_type
+\par 
+\par Arguments:
+\par   (oper1)
+\par     =, !=, <, >, <=, >=
+\par   value1 (int)
+\par     Numerical value to compare with.
+\par   (oper2)
+\par     =, !=   (other operators not valid)
+\par   state_type (char)
+\par     S, C, A
+\par     Stand, Crouch and Air state-types.
+\par 
+\par Example:
+\par   trigger1 = StateNo = 200
+\par     True if the player is in state number 200.
+\par 
+\par   trigger1 = StateType = S
+\par     True if the player is in a stand-type state.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par MoveContact, MoveHit, MoveGuard
+\par ------------------------------------------------------------
+\par 
+\par These triggers are valid only when the player is in an attack state.
+\par MoveContact gives 1 if P2 has either been hit, or has guarded P1's attack. It gives 0 otherwise. P1 is the player, and P2 is his opponent.
+\par MoveHit gives 1 if P2 has either been hit, or has guarded P1's attack. It gives 0 if the attack missed or was guarded.
+\par MoveGuard gives 1 if P2 has guarded, or has guarded P1's attack. It gives 0 if the attack missed or successfully hit.
+\par Typically used with the "StateNo" and "Command" triggers for detecting move-interrupts in the CMD file.
+\par 
+\par Format:
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par   value1 (int)
+\par     Either 0 or 1.
+\par 
+\par 
+\par Example:
+\par   trigger1 = MoveContact = 1
+\par     True if P1's attack did not miss P2.
+\par 
+\par 
+\par ------------------------------------------------------------
+\par 
+\par ------------------------------------------------------------
+\par 
+\par 
+\par 
+\par Format:
+\par 
+\par Arguments:
+\par   (oper)
+\par     =, !=, <, >, <=, >=
+\par 
+\par 
+\par Example:
+\par   trigger1 =
+\par 
+\par 
+\par 
+\par 
+\par 
+\par ============================================================
+\par Appendix B.  State Controller Index
+\par ============================================================
+\par 
+\par Commonly-used
+\par -------------
+\par -ChangeState
+\par -ChangeAnim
+\par -PlaySnd
+\par -PosSet, VelSet, PosAdd, VelAdd, VelMul
+\par -Gravity
+\par -HitDef
+\par -HitBy, NotHitBy
+\par -LifeSet, LifeAdd, PowerSet, PowerAdd
+\par 
+\par Effects
+\par -------
+\par -MakeDust
+\par -GameMakeAnim
+\par -EnvShake
+\par -EnvColor
+\par 
+\par Others
+\par ------
+\par -
+\par 
+\par 
+\par Here we will not include triggers in the examples.
+\par 
+\par ------------------------------------------------------------
+\par ChangeState
+\par ------------------------------------------------------------
+\par 
+\par Changes the state number of the player.
+\par 
+\par }{\f6\fs20\cf1 Required parameters:
+\par }{\f6\fs20\cf1   value = state_no
+\par     state_no (int) is the number of the state to change to.
+\par 
+\par Optional parameters:
+\par   ctrl = ctrl_flag
+\par     ctrl_flag (int) is the value to set the player's control
+\par     flag to. Valid values are 0 and 1.
+\par 
+\par   anim = anim_no
+\par     anim_no (int) is the action number to switch to.
+\par 
+\par Example:
+\par   ; Change to standing state, and give player control
+\par   type = ChangeState
+\par   value = 0
+\par   ctrl = 1
+\par 
+\par 
+\par ------------------------------------------------------------
+\par ChangeAnim
+\par ------------------------------------------------------------
+\par 
+\par Changes the action number of the player's animation.
+\par 
+\par }{\f6\fs20\cf1 Required parameters:
+\par }{\f6\fs20\cf1   value = anim_no
+\par     value (int) is the action number to change to.
+\par 
+\par Optional parameters:
+\par   none
+\par 
+\par Example:
+\par   none
+\par 
+\par 
+\par ------------------------------------------------------------
+\par PlaySnd
+\par ------------------------------------------------------------
+\par 
+\par Plays back a sound
+\par 
+\par }{\f6\fs20\cf1 Required parameters:
+\par }{\f6\fs20\cf1   value = group_no, sound_no
+\par     group_no and sound_no correspond to the identifying pair
+\par     that you assigned each sound in the player's snd file.
+\par     To play back a sound from "fight.snd", precede group_no
+\par     with an "F".
+\par 
+\par Optional parameters:
+\par   volume = volume_level
+\par     volume_level (int) is 0 for normal volume, positive for
+\par     louder, and negative for softer.
+\par 
+\par Example:
+\par   }{\f6\fs20\cf1 ; Plays back sound 2,0 from the player's SND file
+\par }{\f6\fs20\cf1   type = PlaySnd
+\par   value = 2,0
+\par 
+\par   ;}{\f6\fs20\cf1  Play}{\f6\fs20\cf1 s back sound 5,2 from fight.snd}{\f6\fs20\cf1 
+\par }{\f6\fs20\cf1   type = PlaySnd
+\par   value = F5,2
+\par    
+\par 
+\par ------------------------------------------------------------
+\par }{\f6\fs20\cf1 PosSet, VelSet, PosAdd, VelAdd, VelMul}{\f6\fs20\cf1 
+\par ------------------------------------------------------------
+\par 
+\par Performs various operations to the position and velocity of the player.
+\par For PosSet, the X-position is relative to the center of the stage, with positive values moving right. The Y-position is relative to the floor, with negative values moving up.
+\par For PosAdd, a positive value for x makes the player move forwards in whatever direction he is facing.
+\par VelMul multiplies the components
+\par 
+\par Required parameters:
+\par   none    
+\par 
+\par Optional parameters:
+\par   }{\f6\fs20\cf1 x = x_value (decimal)
+\par }{\f6\fs20\cf1   y}{\f6\fs20\cf1  = }{\f6\fs20\cf1 y}{\f6\fs20\cf1 _value (decimal)}{\f6\fs20\cf1 
+\par     You can specify one or both of the optional parameters
+\par     at a time.}{\f6\fs20\cf1 
+\par }{\f6\fs20\cf1 
+\par Example:
+\par   ; Applies "friction" to the player
+\par   type = VelMul
+\par   x = 0.8
+\par   
+\par   }{\f6\fs20\cf1 ; Applies "}{\f6\fs20\cf1 gravity}{\f6\fs20\cf1 " to the player
+\par   type = Vel}{\f6\fs20\cf1 Add}{\f6\fs20\cf1 
+\par   }{\f6\fs20\cf1 y}{\f6\fs20\cf1  = }{\f6\fs20\cf1 0.45}{\f6\fs20\cf1 
+\par   
+\par }{\f6\fs20\cf1 
+\par ------------------------------------------------------------
+\par 
+\par ------------------------------------------------------------
+\par 
+\par 
+\par 
+\par }{\f6\fs20\cf1 Required parameters:
+\par }{\f6\fs20\cf1   value = 
+\par     
+\par 
+\par Optional parameters:
+\par   none
+\par 
+\par Example:
+\par   none
+\par 
+\par 
+\par 
+\par ============================================================
+\par Appendix C.  Special State Controller Numbers
+\par ============================================================
+\par 
+\par Number      Description
+\par ------      -----------
+\par 0           Stand
+\par 10          Stand-to-crouch
+\par 11          Crouching
+\par 12          Crouch-to-stand
+\par 20          Walk
+\par 
+\par To be finished.
+\par 
+\par 
+\par 
+\par }}

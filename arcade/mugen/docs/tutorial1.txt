@@ -1,0 +1,188 @@
+How Do I...?  A  M.U.G.E.N primer
+=================================
+M.U.G.E.N, Elecbyte (c)1999
+
+Tutorial Part 1 
+Updated 17 Aug 99
+
+In this tutorial you will learn how to make a palette for your 
+character, put together an input file for sprmaker and make an .sff 
+with your sprites.  Also, you’ll see how to make an action by making 
+a part of an .air file.  In Part 2 of the tutorial, you’ll be able to 
+define bounding boxes for your sprites and define a simple attack 
+within the .cns file.  For this tutorial, you’ll need sprmaker, 
+airview, an imaging/paint program such as PhotoShop or PaintShop Pro.  
+Also, you’ll need a text editor such as EDIT or Notepad and the 
+player.zip, the template character files.
+
+1. Making a palette
+When converting sprites to 256 colors (also known as Indexed Color), 
+Photoshop and PSP5 just makes the palette however it wants.  It's 
+annoying to say the least.  With Photoshop, go to Image->Mode-
+>Indexed Color.  A window will pop up.  In this window, set the 
+palette to Exact.  Now, go to Image->Mode->Color Table and edit the 
+bottom right color (that's color 0 in Photoshop) to be the bg color.  
+Then take the old color 0 color and put it where the bg color used to 
+be (swap the two colors essentially).  Save this palette (call it 
+player.act for the purpose of this tutorial).  Do not save the .pcx.  
+If all your pcxs are already in indexed color then you'll have to run 
+pcxclean on them with the new palette.  If they are still in RGB 
+mode, then when you convert to indexed color, choose custom for the 
+pallete and load up the palette you just saved when it asks.
+
+In PSP5, go to colors->decrease color depth->8bit (256).  Choose 
+Optimized Octree and Nearest color for reduction method.  You might 
+try to test some other options to see what works best.  Now, edit the 
+palette (colors->edit palette) and swap the color in color 0 (upper 
+left) with the your BG color.  Finally, save that palette and run it 
+through pal2act.exe tool from Elecbyte’s page.  Now, run your sprites 
+through pcxclean with your new palette.
+
+2. How do I start making a character?
+Go to the chars/ directory and make a new directory for your 
+character. Let's call this character "Player", for an example 
+(replace "player" with whatever you want to call your character). In 
+this case, make a directory called chars/player.
+Put the sprmaker and the other tools in the same directory as 
+mugen.exe.
+
+3. What does this character need?
+You'll need to have these in the chars/player directory:
+player.air
+player.cmd
+player.cns
+player.def
+player.sff
+player.snd
+player.act
+
+In this tutorial, you’ll make player.sff.
+
+4. How do I start making these files?
+You can make them all from scratch... Or, you can download and copy 
+over PLAYER from our website, and start from there.
+Unzip PLAYER into the same directory as M.U.G.E.N, extracting with 
+directories. That will create two directories:
+  chars/player
+  work/player
+Also, you may want to get KFM from our website. He's a good 
+reference.
+
+5. OK, I got Player. Now what?
+
+The first thing you want to do is make player.sff.  We’ll concentrate 
+on just making standing and walking animations for now.  If you 
+already have the sprites you want to use, get those ready.  Let’s say 
+that the standing animations you want to use are named stand1.pcx – 
+stand5.pcx and are in the work/player directory.  Now, make a text 
+file inside work/player and call that file player.txt (of course you 
+can name it anything you want).  Here’s the start of the text file…
+
+;Options
+#
+;Palette
+1
+;Shared palette
+2
+;Don’t change the above options
+;Filename:
+;This is where sprmaker will make the file
+chars\player\player.sff
+;----------------
+;your sprite file name
+work\player\stand1.pcx   
+;group number
+0			
+;image number  You’ll use these numbers in the air file
+0			
+;X and Y axis,  you’ll have to change these numbers
+;for your own sprites
+17			
+105
+work\player\stand2.pcx
+0
+1
+17
+105
+work\player\stand3.pcx
+0
+2
+17
+105
+work\player\stand4.pcx
+0
+3
+17
+105
+work\player\stand5.pcx
+0
+4
+17
+105
+; end of file
+
+Group number 0 is used for standing frames.  Check air.txt for 
+recommended numbers for other actions.  The image number just 
+specifies which image it is within a particular group number.  You 
+have to get your own X and Y axis from your sprite.  For standing 
+frames, it is usually at the very bottom in the middle of the sprite.
+For jumping sprites, the axis is usually in the where the character’s 
+feet would be if they were standing.  That usually is in the center 
+below the sprite.  You can check KFM’s sprites by running MUGEN and 
+pressing Ctrl-C while playing.  This will bring up the characters’ 
+bounding boxes and axes.
+
+Once you have player.txt ready, go to the directory where you put 
+mugen.exe and sprmaker.exe, etc and make player.sff by typing:
+sprmaker < work\player\player.txt
+If you get errors or player.sff wasn’t made, check the text file for 
+errors.
+
+6. I made the .sff, now what?
+
+Ok, now that player.sff is made, you can go to player.air file and 
+add a standing animation action.
+
+It’s time to make player.air.  Remember, the format for .air is
+Group number, image number, X offset, Y offset, game-ticks, [options]
+Don’t worry about the lines that start with Clsn2 and Clsn2Default 
+for now.
+
+; Standing Animation
+[Begin Action 000]   ;Action 000 is the standing animation
+Clsn2Default: 2
+ Clsn2[0] = -10,  0, 10,-79
+ Clsn2[1] =  -4,-92,  6,-79
+0,3, 0,0, 7  
+;The above line means to look in group 0 for image number 3 and 
+;display it for 7 game-ticks.  1 game-tick is 1/60 of a sec, so 60 
+;ticks is 1 second.  Group 0 Image 3 is stand4.pcx.
+0,2, 0,0, 7
+0,1, 0,0, 7
+0,0, 0,0, 7
+0,1, 0,0, 7
+0,2, 0,0, 7
+0,3, 0,0, 7
+0,4, 0,0, 7
+;end of file
+
+Now, save this file and you’re ready to see how your character looks!
+
+7. Checking out your actions
+If all the files are in the right place, you can directly load your 
+character with mugen by typing:
+mugen player player
+
+This is a shortcut for versus mode.
+
+8. Continuing with Actions and Sprites
+
+Now that you know the basics of making sprites and actions, you 
+should continue by making the sprites from spr.txt and actions from 
+the Reserved Action Numbers in air.txt.  
+
+In part 2 of the tutorial, you’ll be able to define your character’s 
+bounding boxes so they can get hit and hit other characters.  
+Finally, we’ll show you how to define some attacks in the .cns.
+
+-End of Part 1

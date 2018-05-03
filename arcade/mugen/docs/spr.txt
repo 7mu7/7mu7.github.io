@@ -1,0 +1,88 @@
+Sprite Standard
+---------------
+- These frames are required for all characters
+- Use only these standard frames when making a AIR-action that the other
+  player will execute (eg. throws)
+- The horizontal component of "Axis" means around the center of the
+  character, unless specified otherwise
+
+Standard getting hit
+--------------------
+- Unused sprite-numbers are left in groups 5000 and 5010 for intermediate
+  frames (not required)
+- Axes labelled "head" should have both X and Y-axes in the middle of the
+  player's head
+
+Frame     Description                                  Axis
+-------   ------------                                 ----
+5000,0    Hit high while standing, head back slightly  Feet
+5000,10   Hit high while standing, head back more      Feet
+5000,20   Hit high while standing, head back far       Feet
+5001,0    Frame 5000,0                                 Midsection
+5001,10   Frame 5000,10                                Midsection
+5001,20   Frame 5000,20                                Midsection
+5002,0    Frame 5000,0                                 Head
+5002,10   Frame 5000,10                                Head
+5002,20   Frame 5000,20                                Head
+5010,0    Hit low while standing, bent over slightly   Feet
+5010,10   Hit low while standing, bent over more       Feet
+5010,20   Hit low while standing, bent over far        Feet
+5011,0    Frame 5010,0                                 Midsection
+5011,10   Frame 5010,10                                Midsection
+5011,20   Frame 5010,20                                Midsection
+5012,0    Frame 5010,0                                 Head
+5012,10   Frame 5010,10                                Head
+5012,20   Frame 5010,20                                Head
+5020,0    Hit while crouching, head back slightly      Feet
+5020,10   Hit while crouching, head back more          Feet
+5020,20   Hit while crouching, head back far           Feet
+5030,0    Hit back, head back/fwd slightly             Where feet would be if standing
+5030,10   Hit back, head back far                      Where feet would be
+5031,0    Frame 5030,0                                 Midsection
+5031,10   Frame 5030,10                                Midsection
+5032,0    Frame 5030,0                                 Head
+5032,10   Frame 5030,10                                Head
+5040,0    Fall and hitting ground                      Ground-level (eg. back)
+5040,10   Lying down on ground                         Ground-level
+5041,0    Frame 5040,0                                 Middle of body
+5041,10   Frame 5040,10                                Middle of body
+5042,0    Frame 5040,0                                 Head
+5042,10   Frame 5040,10                                Head
+
+-----------------------------------------------------------------------
+Recommended group numbers
+
+Group     Description                  Comments
+-------   ------------                 --------
+0         Standing
+5         Turning
+10        Stand to crouch
+11        Crouching
+12        Stand to crouch
+20        Walking forwards
+21        Walking backwards
+40        Jump start (on ground)
+41        Jump neutral (upwards)
+42        Jump forwards (upwards)
+43        Jump back (upwards)
+44        Jump neutral (downwards)
+45        Jump fwd (downwards)
+46        Jump back (downwards)
+47        Jump landing
+100       Run fwd
+105       Hop back
+110       Dodge up                     
+115       Dodge down
+120       Start guarding (stand)
+121       Start guarding (crouch)
+122       Start guarding (air)
+130       Guard (stand)
+131       Guard (crouch)
+132       Guard (air)
+140       Stop guarding (stand)
+141       Stop guarding (crouch)
+142       Stop guarding (air)
+150       Guarding a hit (stand)
+151       Guarding a hit (crouch)
+152       Guarding a hit (air)
+

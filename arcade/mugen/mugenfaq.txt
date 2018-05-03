@@ -1,0 +1,205 @@
+M.U.G.E.N  F.A.Q
+----------------
+Updated 18 Aug 1999
+
+
+Q. When I try to run MUGEN it gives me an error "Can't change video mode",
+   even when I hit "yes" to switch to 640x480. What does it mean?
+Q. When I run in 640x480 I have a tiny screen. How do I make it big?
+Q. Why doesn't MUGEN work with my %s soundcard?
+Q. How do I enable my gamepad?
+Q. How do I add new characters to the select screen?
+Q. How do I make an .act file?
+Q. How do I make an .sff or .snd file?
+Q. How do I make an .air, .cns, .cmd or .def file?
+Q. Heck, how do I make a character?
+Q. Why does my character have a colored box around him?
+Q. Making a character is hard! What's the easy way?
+Q. How do I make a stage and its background?
+Q. How do I add music to the stage?
+Q. How do I add music to the title, select and VS screens?
+Q. How do I switch the sounds for the hits and announcers?
+Q. How do I change the graphics for supers and hit sparks and life bars?
+Q. How do I change the title screen and character select graphics?
+Q. AIRView says it can't load fonts. What's wrong?
+Q. Where are the docs and tutorials?
+Q. Can MUGEN do tag-team or 3-on-3 battles?
+Q. Can I sell a game I make with MUGEN?
+
+
+
+
+
+
+
+
+Q. When I try to run MUGEN it gives me an error "Can't change video mode",
+   even when I hit "yes" to switch to 640x480. What does it mean?
+
+A. You need VESA drivers to run MUGEN. It's recommended you run in VESA2,
+   since that is usually faster for 16-bit colour. Check readme.txt for
+   more info on tweaking your graphics settings.
+
+
+Q. When I run in 640x480 I have a tiny screen. How do I make it big?
+
+A. Edit data/mugen.cfg, and look under [Video]. Set "stretch" to 1.
+   This will run slower though, so it's recommended you find a VESA
+   driver that gives you 320x240x16bit.
+
+
+Q. Why doesn't MUGEN work with my %s soundcard?
+
+A. MUGEN supports SB16 and compatibles. There are problems with SBLive
+   and SBPCI.
+
+
+Q. How do I enable my gamepad?
+
+A. Edit to data/mugen.cfg and find [Input]. Set "P1.UseJoystick" to 1,
+   and set P1.Joystick.type to the appropriate setting (2,4 or 6 button)
+
+
+Q. How do I add characters to the select screen?
+
+A. Open data/select.cfg. At the bottom, add a line that looks like:
+     player, stages/stage.def
+   Substitute "player" for the name of the player, and "stage.def" for
+   the name of his stage. If he has none, you can use the default stage
+   of "stages/stage0.def"
+
+
+Q. How do I make an .act file?
+
+A. You can do it one of several ways:
+   1. If you have Adobe Photoshop, you can save .act files from
+      a 256 color image.
+   2. You can download PCXClean from our Tools section in our
+      homepage. The PCXPal tool can be used to extract .pal
+      files from a PCX file.
+   3. You can get the Paint Shop Pro .pal to .act converter
+      that we're working on. It's included in PCXClean v1.5.
+
+
+Q. How do I make an .sff or .snd file?
+
+
+A. You will need sprmaker and sndmaker. They are
+   available in the MUGEN Tools package.
+
+
+Q. How do I make an .air, .cns, .cmd or .def file?
+
+A. They are all text files, that you can edit with EDIT
+   or Notepad, or the like. CNS files can sometimes get
+   too big for Notepad, however.
+
+
+Q. Heck, how do I make a character?
+
+A. It's not easy, but here's a brief outline to get started.
+   Read up on the docs for more details.
+   - download KFM from our site. He's a good reference.
+     Also get his work files, which contain his sprites,
+     and a txt file for piping into sprmaker.
+   - get ready some sprites to use. Even just the
+     standing sprites is enough to get started
+   - make the txt file for the sff of his standing frames
+   - make the sff using sprmaker
+   - make a def file (or copy over and edit KFM's)
+   - make an air file (or copy over and edit KFM's)
+   - make a cns file (or copy over and edit KFM's) 
+   - try it out, tweak the axes until it looks right
+     type:  MUGEN player player   to test the char
+   - add walking frames to the sff, then animate them in
+     the air. Add jumping, getting hit, etc.
+   - when you're done with basic movement, it's time to
+     add attacks! That's when the fun and real work
+     begins (also lots of frustration)
+
+
+Q. Making a character is hard! What's the easy way?
+
+A. Sorry, there isn't any. MUGEN is very flexible, but with
+   that flexibility comes work.
+   You can try replacing sprites for KFM and tweaking with
+   his AIR and CNS to get started though.
+
+
+Q. Why does my character have a colored box around him?
+
+A. You need to set the color of that box to color 0 in
+   his palette. Make sure your sprites are all 256 colors,
+   with that same palette.
+
+
+Q. How do I make a stage and its background?
+
+A. You need a def and an sff in the stages/ directory.
+   stages/stage0.def has some comments on how to make
+   a background. We will work on real documentation later.
+
+
+Q. How do I add music to the stage?
+
+A. Edit the def file for the stage, and go to [Music].
+   For "bgmusic", put in the name of the midi or mp3 file.
+   For example, if you have music.mp3 in the sound/ directory,
+   the line should read:
+     bgmusic = sound/music.mp3
+   Or if a file is on other drive the line should read:
+     bgmusic = d:/music/mp3/music.mp3
+
+
+Q. How do I add music to the title, select and VS screens?
+
+A. For the title screen, open up data/system.def, and look
+   under [Music]. Add the mp3 or midi to "bgmusic".
+   For the char select and VS screens, open up data/select.cfg
+   and check under [Music].
+
+
+Q. How do I switch the sounds for the hits and announcers?
+
+A. You'll need to build your own fight.snd in the sound/
+   directory.
+
+
+Q. How do I change the graphics for supers and hit sparks and life bars?
+
+A. You'll need to change staticfx.sff and staticfx.air in the
+   graphics/ directory.
+
+
+Q. How do I change the title screen and character select graphics?
+
+A. To put in a title image, replace graphics/title.pcx with one of
+   your own. To change more of the title screen, open up
+   data/system.def and edit the background parameters. The
+   corresponding background is graphics/system.sff.
+   To change the select screen stuff, open up data/select.cfg.
+   The background sff is graphics/selectbg.sff.
+
+
+Q. AIRView says it can't load fonts. What's wrong?
+
+A. You need to run AIRView in the same directory as MUGEN.
+   It uses the MUGEN fonts.
+
+
+Q. Where are the docs and tutorials?
+
+A. Uh, we're working on it. It's not easy. In fact, writing
+   docs has the same appeal as doing a 50-page assignment.
+
+
+Q. Can MUGEN do tag-team or 3-on-3 battles?
+
+A. No. We'll consider it when we have more free time, and
+   the more important stuff is out of the way (like docs).
+
+
+Q. Can I sell a game I make with MUGEN?
+
+A. You can't sell MUGEN betas.  MUGEN betas are free.  What you
+   do with the characters and files you make is your decision.
