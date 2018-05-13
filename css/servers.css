@@ -34,9 +34,9 @@ blockImg {
 	height: auto;
 	text-align: justify;
 }
-
 img {
-	width: 10%;
+        z-index: 5;
+	width: 125px;
 	height: auto;
 	text-align: justify;
 }
