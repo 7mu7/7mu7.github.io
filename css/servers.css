@@ -34,6 +34,9 @@ blockImg {
 	height: auto;
 	text-align: justify;
 }
+.menu{
+	position: absolute;
+}
 img {
         z-index: 5;
 	width: 125px;
