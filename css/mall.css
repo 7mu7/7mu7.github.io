@@ -6,7 +6,6 @@
 body,html{
    line-height: 1;
    background-image: url("../images/tile.jpg");
-   alignment: auto;
 }
 footer {
    bottom : 2px;  
