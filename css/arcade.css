@@ -78,3 +78,16 @@ button{
     left: 75%;
 	transform: translate(-50%, -50%);
 }
+footer {
+   bottom : 2px;  
+   height : 22px;  
+   margin-top : 40px;
+   font-size: 15px;  
+   text-align: center;  
+   vertical-align: middle; 
+   position:fixed;
+   width:100%;
+   font-family: speculum;
+   -webkit-text-stroke-width: .7px;
+   -webkit-text-stroke-color: #FF6AD5;
+}
