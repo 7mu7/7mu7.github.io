@@ -44,37 +44,55 @@ button{
 }
 .digdug {
     position: absolute;
-    top: 50%;
+    top: 43.75%;
     left: 25%;
 	transform: translate(-50%, -50%);
 }
 .doom2 {
     position: absolute;
-    top: 50%;
+    top: 43.75%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .leisuresuitlarry {
     position: absolute;
-    top: 50%;
+    top: 43.75%;
     left: 75%;
     transform: translate(-50%, -50%);
 }
 .minesweeper {
     position: absolute;
-    top: 75%;
+    top: 62.5%;
     left: 25%;
     transform: translate(-50%, -50%);
 }
 .oregontrail {
     position: absolute;
-    top: 75%;
+    top: 62.5%;
     left: 50%;
 	transform: translate(-50%, -50%);
 }
 .zork {
     position: absolute;
-    top: 75%;
+    top: 62.5%;
+    left: 75%;
+	transform: translate(-50%, -50%);
+}
+.TEMP1 {
+    position: absolute;
+    top: 81.25%;
+    left: 75%;
+	transform: translate(-50%, -50%);
+}
+.TEMP2 {
+    position: absolute;
+    top: 81.25%;
+    left: 75%;
+	transform: translate(-50%, -50%);
+}
+.TEMP3 {
+    position: absolute;
+    top: 81.25%;
     left: 75%;
 	transform: translate(-50%, -50%);
 }
