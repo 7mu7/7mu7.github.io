@@ -81,13 +81,13 @@ button{
 .Civilization {
     position: absolute;
     top: 81.25%;
-    left: 75%;
+    left: 25%;
 	transform: translate(-50%, -50%);
 }
 .tetris {
     position: absolute;
     top: 81.25%;
-    left: 75%;
+    left: 50%;
 	transform: translate(-50%, -50%);
 }
 .warcraft {
