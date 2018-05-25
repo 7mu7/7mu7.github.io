@@ -6,3 +6,7 @@ loadImage2 = new Image();
 loadImage2.src = "images/chat.gif";
 staticImage2 = new Image();
 staticImage2.src = "images/chatstill.png";
+loadImage3 = new Image();
+loadImage3.src = "images/minecraft-blockmoving.gif";
+staticImage3 = new Image();
+staticImage3.src = "7mu7.github.io/images/minecraft-block/minecraft-block3.gif";
