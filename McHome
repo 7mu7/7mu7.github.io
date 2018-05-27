@@ -42,8 +42,8 @@
 <body>
 
 <div class="fade">
-    <img id="i2" src="stage1.jpg">
-    <img id="i1" src="stage0.jpg">
+    <img id="i2" src="/images/McHome/stage1.jpg">
+    <img id="i1" src="/images/McHome/stage0.jpg">
 </div>
 
 
