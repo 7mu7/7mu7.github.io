@@ -58,6 +58,6 @@ iframe{
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .bust{
-	 height: 50%
+	 height: 30%
 	  }
 }
