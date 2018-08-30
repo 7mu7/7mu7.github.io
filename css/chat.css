@@ -56,10 +56,11 @@ iframe{
 	margin-left: auto;
     margin-right: auto;
 }
-@media (max-width: 767px)  {
+@media screen and (min-width:720px)  {
  img {
 	position: relative;
 }
 html { 
 	background: url("../images/polygonpattern.gif") repeat center center fixed; 
+}
 }
