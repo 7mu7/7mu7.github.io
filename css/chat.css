@@ -44,7 +44,7 @@ footer {
 .title {
 	background-image: url("../images/title.png");
     background-position: top;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 	height: 300px;
 }
 home {
@@ -60,4 +60,6 @@ iframe{
  img {
 	position: relative;
 }
+html { 
+	background: url("../images/polygonpattern.gif") repeat center center fixed; 
 }
