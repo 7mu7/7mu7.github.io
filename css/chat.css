@@ -56,7 +56,7 @@ iframe{
 	margin-left: auto;
     margin-right: auto;
 }
-@media screen and (min-width: 0px) and (max-width: 1030px)  {
+@media screen and (max-height: 1920px) and (max-width: 1030px) {
  img {
 	position: relative;
 }
