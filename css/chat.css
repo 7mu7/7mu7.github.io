@@ -44,7 +44,7 @@ footer {
 .title {
 	background-image: url("../images/title.png");
     background-position: top;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 	height: 300px;
 }
 home {
