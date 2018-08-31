@@ -63,4 +63,7 @@ iframe{
 html { 
 	background: url("../images/polygonpattern.gif") repeat center center fixed; 
 }
+footer {
+	position:static;
+}
 }

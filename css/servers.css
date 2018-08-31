@@ -66,3 +66,7 @@ home {
     width: 5px;
     height: 5px;
 }
+@media screen and (max-height: 1920px) and (max-width: 1030px) {
+html { 
+	background: url("../images/trip.gif") repeat center center fixed; 
+}
