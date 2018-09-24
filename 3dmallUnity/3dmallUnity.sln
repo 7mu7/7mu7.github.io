@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dmallUnity", "Assembly-CSharp-firstpass.csproj", "{A1561E2A-23E3-F88B-C3A0-C7D321E2A3C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{A1561E2A-23E3-F88B-C3A0-C7D321E2A3C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dmallUnity", "Assembly-CSharp.csproj", "{817440B2-8D3D-51A5-B359-7EDCED35592A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{817440B2-8D3D-51A5-B359-7EDCED35592A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dmallUnity", "Assembly-CSharp-Editor-firstpass.csproj", "{70BF1F9C-E1CF-AA8B-C0DB-554A8E7752EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{70BF1F9C-E1CF-AA8B-C0DB-554A8E7752EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

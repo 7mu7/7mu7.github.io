@@ -5,24 +5,6 @@ body{
     background-position: center; 
 	background-size: cover;
 }
-img {
-	width: 10%;
-	height: auto;
-	text-align: justify;
-}
-footer {
-   bottom : 2px;  
-   height : 22px;  
-   margin-top : 40px;
-   font-size: 15px;  
-   text-align: center;  
-   vertical-align: middle; 
-   position:fixed;
-   width:100%;
-   font-family: speculum;
-   -webkit-text-stroke-width: .7px;
-   -webkit-text-stroke-color: #FF6AD5;
-}
 .webgl-content * {border: 0; margin: 0; padding: 0}
 .webgl-content {position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 
@@ -39,3 +21,22 @@ footer {
 .webgl-content .footer {margin-top: 5px; height: 38px; line-height: 38px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 18px;} 
 .webgl-content .footer .webgl-logo, .title, .fullscreen {height: 100%; display: inline-block; background: transparent center no-repeat;} 
 .webgl-content .footer .webgl-logo {background-image: url('webgl-logo.png'); width: 204px; float: left;}
+
+img {
+	width: 125px;
+	height: auto;
+	position: absolute;
+}
+footer {
+   bottom : 2px;  
+   height : 22px;  
+   margin-top : 40px;
+   font-size: 15px;  
+   text-align: center;  
+   vertical-align: middle; 
+   position:fixed;
+   width:100%;
+   font-family: speculum;
+   -webkit-text-stroke-width: .7px;
+   -webkit-text-stroke-color: #FF6AD5;
+}

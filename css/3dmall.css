@@ -108,6 +108,7 @@ kbd {
    transform:translate(.5%,.9%)scale(0.99);
    }
 }
+
 @media screen and (max-width:60em){
 	html{
 		font-size:60%;
