@@ -36,6 +36,9 @@ html, body{
 	font: inherit;
 	vertical-align: baseline;
 }
+.name{
+	font-size: 20px;
+}
 .top {
 	background-image: url("../images/cloud_tile.jpg");
     background-position: top;
