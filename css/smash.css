@@ -16,3 +16,14 @@ embed{
     bottom: 0; left: 0;
     margin: auto;
 }
+.mg_border {
+    background: #3C3C3C;
+    border-top: solid 3px gray;
+    padding: 10px;
+	text-align: center;
+}
+.mg_embed {
+    position: relative;
+    overflow: hidden;
+    max-width: 100%;
+}
