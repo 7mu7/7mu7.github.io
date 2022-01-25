@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\arcade.cs" />
      <Compile Include="Assets\scripts\aurora.cs" />
+     <Compile Include="Assets\scripts\curse.cs" />
      <Compile Include="Assets\scripts\Entrance.cs" />
      <Compile Include="Assets\scripts\lum.cs" />
      <Compile Include="Assets\scripts\mrmantext.cs" />
